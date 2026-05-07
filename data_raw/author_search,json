@@ -1,0 +1,5937 @@
+{
+  "numFound": 280729,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 280729,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "king",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8569284,
+      "ebook_access": "borrowable",
+      "edition_count": 95,
+      "first_publish_year": 1986,
+      "has_fulltext": true,
+      "ia": [
+        "esroman0000king_s8m4",
+        "it00step",
+        "it00king_0",
+        "to0000king",
+        "it0000unse",
+        "it0000unse_g2v5",
+        "rarestephenkingi0000unse",
+        "isbn_9783453129542",
+        "itnovel0000king_q6k2",
+        "it0000king_y0m8",
+        "it0step",
+        "het0000king",
+        "itnovel0000king",
+        "it0000king_a0r0",
+        "it0000king_k8q4",
+        "iteso0000king",
+        "it0000king",
+        "esroman0000king",
+        "a0000unse_t6y1",
+        "it00king_1",
+        "itking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "schroederlibrary-ol",
+        "spokanepubliclibrary-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "universityofarizona-ol",
+        "uslprototype",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81613W",
+      "language": [
+        "ita",
+        "eng",
+        "fre",
+        "spa",
+        "pol",
+        "por",
+        "dut",
+        "tur",
+        "jpn",
+        "ger",
+        "rus"
+      ],
+      "lending_edition_s": "OL9064160M",
+      "lending_identifier_s": "esroman0000king_s8m4",
+      "public_scan_b": false,
+      "title": "It"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL22312685M",
+      "cover_i": 12376585,
+      "ebook_access": "borrowable",
+      "edition_count": 97,
+      "first_publish_year": 1977,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9780340797662",
+        "shining00step",
+        "shining0000unse_y1t3",
+        "shining0000unse",
+        "shining0000unse_z9o5",
+        "bwb_W8-BRZ-347",
+        "shining0000step",
+        "shining0000step_f2u1",
+        "shining0000king_q3a8",
+        "shining00king",
+        "shining0000king_u6w1",
+        "shiningking00king",
+        "shining0000king_n1f0",
+        "elresplandor0000step",
+        "shining0000unse_x7z2",
+        "shining06king",
+        "shining0000king_w4g5",
+        "shining0000king",
+        "shining00kingrich",
+        "shiningk00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81633W",
+      "language": [
+        "eng",
+        "ger",
+        "por",
+        "ita",
+        "jpn",
+        "dut",
+        "pol",
+        "fre",
+        "spa",
+        "heb"
+      ],
+      "lending_edition_s": "OL10631997M",
+      "lending_identifier_s": "isbn_9780340797662",
+      "public_scan_b": false,
+      "title": "The Shining"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL27902097M",
+      "cover_i": 9256043,
+      "ebook_access": "borrowable",
+      "edition_count": 117,
+      "first_publish_year": 1974,
+      "has_fulltext": true,
+      "ia": [
+        "carrie0000unse_u4w7",
+        "isbn_9780340922842",
+        "carrie00king_0",
+        "carrie00step",
+        "carrie0000unse_n8v9",
+        "carrie0000unse_o8s1",
+        "carrie0000unse_w0r6",
+        "carrie0000unse",
+        "carrie0000step",
+        "carrie0000step_v0q5",
+        "carrie0000king_n4v5",
+        "carrie0000king_f0s8",
+        "carrie0000king",
+        "carrieanovelofgi00king",
+        "carrieking00king",
+        "isbn_9780451135483",
+        "carrie0000king_g3m2",
+        "carrie00step_3",
+        "carrie0000king_k6h4",
+        "carrie0000king_m0g9",
+        "carrie0000king_q0a4"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "bannedbooks",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81626W",
+      "language": [
+        "eng",
+        "por",
+        "fre",
+        "ita",
+        "chi",
+        "rus",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL53208387M",
+      "lending_identifier_s": "carrie0000unse_u4w7",
+      "public_scan_b": false,
+      "title": "Carrie"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8259296,
+      "ebook_access": "borrowable",
+      "edition_count": 99,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "touhaoshumi0000unse",
+        "miserywaterstone0000king",
+        "bwb_KR-492-829",
+        "sieroman0000king",
+        "misery00step",
+        "misery0000unse_o3i3",
+        "misery0000step",
+        "stephenkingmiser0000unse",
+        "isbn_9780340794210",
+        "miseryhalloweene0000unse",
+        "miseryroman0000king",
+        "misery0000king",
+        "isbn_0450417395",
+        "miserynovel0000king",
+        "misery0000unse",
+        "misery000king",
+        "misery00king",
+        "miseryki00king",
+        "miserykingstep00king",
+        "miseryking00king",
+        "zhanliyouximiser0000king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81634W",
+      "language": [
+        "spa",
+        "tur",
+        "eng",
+        "chi",
+        "srp",
+        "ara",
+        "por",
+        "ita",
+        "jpn",
+        "dut",
+        "rus",
+        "pol",
+        "fre",
+        "ger",
+        "heb"
+      ],
+      "lending_edition_s": "OL38567453M",
+      "lending_identifier_s": "touhaoshumi0000unse",
+      "public_scan_b": false,
+      "title": "Misery"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL33965435M",
+      "cover_i": 12015500,
+      "ebook_access": "borrowable",
+      "edition_count": 92,
+      "first_publish_year": 1983,
+      "has_fulltext": true,
+      "ia": [
+        "kladbishchedomas0000king",
+        "simetierre0000king",
+        "simetiereroman0000king",
+        "petsematary00step",
+        "cementeriodeanim00step",
+        "petsematary0000unse_z8b7",
+        "petsematarychine0000unse",
+        "simetierre0000king_p0d9",
+        "petsematary0000step",
+        "petsematary0000king_u1f7",
+        "petsematary0000king",
+        "friedhofderkusch0000king_x8k1",
+        "petsematary0000king_g6h8",
+        "petsematarynovel0000king",
+        "petsematary00king_1",
+        "friedhofderkusch0000king",
+        "simetierre0000king_k4e2",
+        "simetierre0000step",
+        "petsematary0000king_y3f7",
+        "isbn_0743412281",
+        "petsematary00king",
+        "petsemetary0000step",
+        "petsematary0000unse",
+        "petsematary1984king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol",
+        "wrlc-ol"
+      ],
+      "key": "/works/OL81631W",
+      "language": [
+        "rus",
+        "eng",
+        "spa",
+        "ita",
+        "ger",
+        "pol",
+        "chi",
+        "fre",
+        "cze",
+        "por"
+      ],
+      "lending_edition_s": "OL34009968M",
+      "lending_identifier_s": "kladbishchedomas0000king",
+      "public_scan_b": false,
+      "title": "Pet Sematary"
+    },
+    {
+      "author_key": [
+        "OL1430285A"
+      ],
+      "author_name": [
+        "Holly Black"
+      ],
+      "cover_edition_key": "OL26694815M",
+      "cover_i": 8361788,
+      "ebook_access": "printdisabled",
+      "edition_count": 20,
+      "first_publish_year": 2019,
+      "has_fulltext": true,
+      "ia": [
+        "wickedking0000blac"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL18543708W",
+      "language": [
+        "eng",
+        "dut"
+      ],
+      "public_scan_b": false,
+      "series_key": [
+        "OL330571L"
+      ],
+      "series_name": [
+        "The Folk of the Air"
+      ],
+      "series_position": [
+        "2"
+      ],
+      "title": "The Wicked King"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL5427893M",
+      "cover_i": 14654118,
+      "ebook_access": "borrowable",
+      "edition_count": 105,
+      "first_publish_year": 1975,
+      "has_fulltext": true,
+      "ia": [
+        "miasteczkosalem0000king",
+        "elmisteriodesale0000king",
+        "salemslot00king_1",
+        "salem00king",
+        "salemslot0000unse_n9a2",
+        "bwb_W8-BDA-955",
+        "salemslot0000unse_a1e2",
+        "salemslot0000unse",
+        "brennenmusalem0000step",
+        "salemslot0000step",
+        "salemslot0000unse_j9e1",
+        "isbn_0450053040",
+        "isbn_0451121589",
+        "brennenmusssalem0000step",
+        "salemslot0000king_o3s3",
+        "salemslot0000king_o0w8",
+        "salemslot0000king",
+        "isbn_0451098277",
+        "salemslot0000king_a1i1",
+        "salemslot0000king_l9x3",
+        "salemslot0000king_w0v4",
+        "salemslot00king_0",
+        "salemslot00king",
+        "salemslot0000unse_h2w2"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81632W",
+      "language": [
+        "spa",
+        "tur",
+        "eng",
+        "por",
+        "ita",
+        "rus",
+        "pol",
+        "fre",
+        "ger"
+      ],
+      "lending_edition_s": "OL28273194M",
+      "lending_identifier_s": "miasteczkosalem0000king",
+      "public_scan_b": false,
+      "title": "'Salem’s Lot"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 9334567,
+      "ebook_access": "borrowable",
+      "edition_count": 91,
+      "first_publish_year": 1996,
+      "has_fulltext": true,
+      "ia": [
+        "greenmile0000unse",
+        "laligneverteroma0000king_f1p8",
+        "laligneverteroma0000king_h3g3",
+        "lseqijigreenmile0000king",
+        "luliqiji0000king",
+        "zelenayamilya00stiv",
+        "isbn_9781407216515",
+        "zelenaiamilia0000unse",
+        "bwb_KS-381-980",
+        "laligneverte0000unse",
+        "isbn_9781407220048",
+        "greenmilenovel00king",
+        "isbn_9780965002691",
+        "bwb_P8-BUK-739",
+        "stephenkinggreen0000vari",
+        "greenmilecomplet00king_0",
+        "greenmile0000king_s2g7",
+        "greenmile0000king",
+        "greenmilecomplet0000step_q0z3",
+        "greenmilecomplet0000step",
+        "laligneverteroma0000king",
+        "greenmilenovelin0000king",
+        "greenmilenovelin00king",
+        "greenmilecomplet00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81629W",
+      "language": [
+        "por",
+        "spa",
+        "pol",
+        "tur",
+        "eng",
+        "chi",
+        "fre",
+        "ger",
+        "ita",
+        "rus"
+      ],
+      "lending_edition_s": "OL53223768M",
+      "lending_identifier_s": "greenmile0000unse",
+      "public_scan_b": false,
+      "title": "The Green Mile"
+    },
+    {
+      "author_key": [
+        "OL9180803A"
+      ],
+      "author_name": [
+        "Ana Huang"
+      ],
+      "cover_edition_key": "OL46647690M",
+      "cover_i": 13588136,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28744393W",
+      "language": [
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "series_key": [
+        "OL327422L"
+      ],
+      "series_name": [
+        "Kings of Sin"
+      ],
+      "series_position": [
+        "1"
+      ],
+      "title": "King of Wrath"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL25159731M",
+      "cover_i": 9255992,
+      "ebook_access": "borrowable",
+      "edition_count": 85,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "apocalipsis0000king",
+        "ladanzadelamuert0000king",
+        "bwb_S0-CBZ-193",
+        "lefleau0000unse",
+        "stand00step_0",
+        "stand00step",
+        "standcompleteunc0000king",
+        "stand0000step",
+        "stephenkingstand0000unse",
+        "standmovietieine0000king",
+        "standforfirsttim0000step",
+        "stand0000step_r1u7",
+        "standnovel0000king_s1i3",
+        "standnovel0000king",
+        "stand00step_1",
+        "stand0000king",
+        "standcompleteu00king",
+        "standcompleteunc00king",
+        "stand00king",
+        "standking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofthewest-ol"
+      ],
+      "key": "/works/OL81618W",
+      "language": [
+        "por",
+        "spa",
+        "pol",
+        "eng",
+        "fre",
+        "ger",
+        "ita",
+        "rus"
+      ],
+      "lending_edition_s": "OL53138351M",
+      "lending_identifier_s": "apocalipsis0000king",
+      "public_scan_b": false,
+      "title": "The Stand"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL24944189M",
+      "cover_i": 8396638,
+      "ebook_access": "borrowable",
+      "edition_count": 94,
+      "first_publish_year": 1976,
+      "has_fulltext": true,
+      "ia": [
+        "dakutawosutibunk0000king",
+        "strelok0000king",
+        "isbn_9786065794740",
+        "isbn_9783453029125",
+        "descherpschutter0000king",
+        "lepistolero0000king",
+        "schwarzderdunkle0000king",
+        "gunslinger00king",
+        "lultimocavaliere0000king",
+        "darktower0001unse",
+        "gunslinger0000king_b0a2",
+        "isbn_9780670032549",
+        "gunslinger0000king_c3g8",
+        "gunslinger0000king_d7o6",
+        "gunslinger0000king_m1i7",
+        "gunslinger0000king_v0o0",
+        "isbn_9783453873018",
+        "gunslinger0000king_c2z1",
+        "iffythedarktower0013step",
+        "gunslingerdarkto00king",
+        "gunslinger0000king",
+        "gunslinger0000king_k6f9",
+        "lepistolero0000king_x9d2",
+        "gunslinger0000king_c9y3",
+        "gunslingerthe00king",
+        "gunslingerthedar00step_2",
+        "darktowergunslin00king",
+        "gunslinger00king_0",
+        "darktowergunslin0000king",
+        "gunslinger0000king_s2c1",
+        "lahierbadeldiabl0000king",
+        "gunslinger0000king_d5d9"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "salisburyfreelibrary-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "uslprototype",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81628W",
+      "language": [
+        "rum",
+        "kor",
+        "eng",
+        "ger",
+        "chi",
+        "ita",
+        "por",
+        "dut",
+        "rus",
+        "fre",
+        "spa"
+      ],
+      "lending_edition_s": "OL42961454M",
+      "lending_identifier_s": "dakutawosutibunk0000king",
+      "public_scan_b": false,
+      "title": "The Gunslinger"
+    },
+    {
+      "author_key": [
+        "OL1913182A"
+      ],
+      "author_name": [
+        "Patrick King"
+      ],
+      "cover_i": 11983442,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL25291486W",
+      "language": [
+        "eng",
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Read People Like a Book"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 9255939,
+      "ebook_access": "borrowable",
+      "edition_count": 69,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "ecriturememoires0000king",
+        "mientrasescribo0000king",
+        "onwriting00step",
+        "onwritingmemoir000king",
+        "onwritingmemoiro0000king",
+        "onwritingmemoiro00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofthewest-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL81601W",
+      "language": [
+        "fre",
+        "eng",
+        "swe",
+        "por",
+        "ukr",
+        "chi",
+        "ger",
+        "dan",
+        "spa",
+        "cze",
+        "ita",
+        "pol",
+        "rus"
+      ],
+      "lending_edition_s": "OL12463188M",
+      "lending_identifier_s": "ecriturememoires0000king",
+      "public_scan_b": false,
+      "title": "On Writing"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 7886954,
+      "ebook_access": "borrowable",
+      "edition_count": 58,
+      "first_publish_year": 1994,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9782286005375",
+        "bessonnitsa0000king_x5n3",
+        "bessonnitsa0000king",
+        "insomnie0000king",
+        "bezsennosc0000king_a1t2",
+        "insomnieroman0000king",
+        "insomnia0000king_u4q6",
+        "insomnia0000king",
+        "insomna00king",
+        "bezsennosc0000king",
+        "insomnia00step",
+        "insomnia000king",
+        "insomnia0000step",
+        "insomnia01king",
+        "insomnia00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "toronto",
+        "tulsacc-ol",
+        "uni-ol"
+      ],
+      "key": "/works/OL81603W",
+      "language": [
+        "eng",
+        "fre",
+        "chi",
+        "rus",
+        "pol",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL43439593M",
+      "lending_identifier_s": "isbn_9782286005375",
+      "public_scan_b": false,
+      "title": "Insomnia"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL26875590M",
+      "cover_i": 8570003,
+      "ebook_access": "printdisabled",
+      "edition_count": 81,
+      "first_publish_year": 1981,
+      "has_fulltext": true,
+      "ia": [
+        "cujo00step_0",
+        "cujo00king",
+        "cujo0000step",
+        "cujo0000king_e6q7",
+        "cujo0000king_n1h1",
+        "cujo0000king_l7j4",
+        "cujo0000king_g6b6",
+        "cujo0000king",
+        "cujo0000king_h2c8",
+        "cujonovel0000king",
+        "cujo0000unse",
+        "cujoking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "bannedbooks",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81610W",
+      "language": [
+        "eng",
+        "ger",
+        "spa",
+        "rus",
+        "por",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Cujo"
+    },
+    {
+      "author_key": [
+        "OL9388A"
+      ],
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "cover_edition_key": "OL25918818M",
+      "cover_i": 7420452,
+      "ebook_access": "public",
+      "edition_count": 1614,
+      "first_publish_year": 1608,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_O8-BXS-912",
+        "chroniclehistory0000will",
+        "kinglear-ur",
+        "newvariorumediti05shak",
+        "kinglear01532gut",
+        "LeRoiLear",
+        "lifedeathofkingl00shak",
+        "kinglear02266gut",
+        "daslebenundderto07240gut",
+        "kinglear_1209_librivox",
+        "kinglear01128gut",
+        "kinglear01794gut",
+        "pgcommunitytexts32305gut",
+        "cu31924014161784",
+        "chroniclehistory00shak",
+        "newvariorumediti05shakuoft",
+        "king_lear_librivox",
+        "kuningaslear16490gut",
+        "leroilear18312gut",
+        "cu31924020326280",
+        "shaksperequartof33shak",
+        "kinglear1900shak",
+        "shakespearestrag29shak",
+        "shakespearestrag08shak",
+        "hamelekhlir008800",
+        "shakespearestrag22shak",
+        "kingleartragedyi00shak",
+        "shakespearestrag01shak",
+        "kinglear01shak",
+        "kinglear02shak",
+        "nybc210885",
+        "nybc210503",
+        "cu31924013139716",
+        "kingleartragedy00shak",
+        "mvvilliamshakesp00shak",
+        "tragedyofkinglea00shakuoft",
+        "works00shak_0",
+        "kingleartragedy00shak_0",
+        "cu31924102205154",
+        "mwilliamshakespe00shak",
+        "leroilear00shak",
+        "selectplaysedite08shakuoft",
+        "tragedyofkinglea00shak_2",
+        "korollir00shak",
+        "shakespearewest00shak",
+        "shaksperequartof34shak",
+        "relear00shak",
+        "shakespearestrag09shak",
+        "cu31924014138725",
+        "kingleareditedby00shakuoft",
+        "kinglearsecondqu00shakuoft",
+        "kinglear00shak",
+        "kinglear1971shak",
+        "shakespearestra18shakgoog",
+        "shakespearestra34rolfgoog",
+        "shakespearestra08shakgoog",
+        "shakespearestra08rolfgoog",
+        "shakespearestra31shakgoog",
+        "shakespeareskin00schmgoog",
+        "kinglear01shakgoog",
+        "kinglearparalle00shakgoog",
+        "kinglearwithani00shakgoog",
+        "chroniclehistor00unkngoog",
+        "kinglearatraged00shakgoog",
+        "anewvariorumedi04furngoog",
+        "shakespearestra35rolfgoog",
+        "tragedykinglear00blacgoog",
+        "shakespearestra01bootgoog",
+        "shakespeareskin02shakgoog",
+        "shakespearestra00rolfgoog",
+        "historykinglear00colmgoog",
+        "kinglear02shakgoog",
+        "tragedykinglear00craigoog",
+        "tragedyofkinglea0000kitt",
+        "kittredgeshakesp0000glki",
+        "ardeneditionofwo0000muir",
+        "bwb_O9-ATA-188",
+        "bwb_S0-BND-949",
+        "kinglear0000will_f3z7",
+        "kinglear0000will_y4c7",
+        "tragedyofkinglear0000geor",
+        "bwb_W9-CXU-999",
+        "kinglear0000unse_n3o8",
+        "kinglear0000unse_q7v3",
+        "kinglear0000will",
+        "kinglearardensha0000shak",
+        "kingleartextsour0000will",
+        "aldusshakespeare0000henr",
+        "kinglearannotate0000will",
+        "tragedyofkinglea0000will_u2p5",
+        "kingleartheyales0000will",
+        "ardenshakespeare0000will_b1t9",
+        "tragedyofkinglea0000shak_f0h9",
+        "elreylear0000shak",
+        "kinglear0000shak_h9i3",
+        "tragedyofkinglea0000shak_t3c3",
+        "relear0000shak",
+        "thytragedyofking0000unse",
+        "tragedyofkinglea0000shak_y4u5",
+        "kinglear0000shak_s9p5",
+        "kinglear0000shak_b1c1",
+        "kinglear0000unse_q7x8",
+        "kinglear0000shak_m1v3",
+        "latragedieduroil0000shak",
+        "tragedyofkinglea00shak_1",
+        "tragedyofkinglea0627shak_KN439",
+        "kinglear0000shak_s6k9",
+        "kinglear0000shak_g9m3",
+        "kinglear00shak_0",
+        "kinglearparallel0000shak",
+        "historyofkinglea0000shak_w9a3",
+        "tragedieofkingle0000will",
+        "yaleshakespeare0000unse_l3j4",
+        "tragedyofkinglea0000shak_f3r9",
+        "kinglear0000shak_p2o3",
+        "isbn_0671827006",
+        "isbn_0671727664",
+        "signetclassicshakinglearshak",
+        "tragedyofkingle00shak",
+        "elreylear00will",
+        "pelicanshakespea14shak",
+        "tragedyofkinglea1963shak",
+        "isbn_9780671468460",
+        "ianpollocksillus00poll",
+        "kinglear00shakrich",
+        "tragedyofkinglea0000unse",
+        "historyofkinglea0000shak_i9w7",
+        "tragedieofkingle0000shak",
+        "tragedyofkinglea0000shak_j8z1",
+        "tragedyofkinglea00pock",
+        "kinglear0000shak_t5b1",
+        "shakespearesking0000bloo",
+        "tragedyofkinglea00bran",
+        "kinglear000shak",
+        "kinglear0000shak_o2h7",
+        "kinglear0000mast",
+        "kinglear0000shak_x4n2",
+        "kinglear0000shak_c9c5",
+        "kinglearwilliams00ryan",
+        "kinglear0000shak_m1o4",
+        "kinglear100shak",
+        "kinglearmodernve0000shak",
+        "kinglear0000shak_p4l5",
+        "shakespearesking0000shak",
+        "kinglear0000shak_g2d0",
+        "kinglearcomplete0000shak",
+        "historyofkinglea00shak_0",
+        "kinglear0000shak_s4k4",
+        "kinglear00shak_1",
+        "kingler00shak",
+        "tragedyofkinglea196700shak",
+        "kinglearmodernte0000shak",
+        "elreylearkinglea0000will",
+        "kinglear0000shak_m3g2",
+        "ria0000shak",
+        "liang.historyofkinglea0000unse",
+        "leroilearfrenche0000will",
+        "kinglearannotate0000shak",
+        "leroilear0000will",
+        "shakespearetrage0000will",
+        "kinglear0000shak_g3k9",
+        "kinglear0000shak_b2w0",
+        "tragedyofkinglea0000shak_l7e2",
+        "kinglear0000shak_e8s3",
+        "kinglear0000shak_a6k3",
+        "kinglearauthorit0000shak",
+        "tragedyofkinglea00shak_0",
+        "tragedyofkinglea00shak",
+        "kinglear1608quar0000shak",
+        "kinglear00shak_2",
+        "kinglearnewfolge00will",
+        "kinglearardensha00will",
+        "kinglearshakespe00will_0",
+        "tragedyofkinglea00will_0",
+        "kinglearshakespe00will",
+        "kinglearexperien0000shak",
+        "kingleartextsour00shak",
+        "kinglear0000shak_t0o1",
+        "kinglear1988shak",
+        "kinglearwordswor00will",
+        "kinglear0000unse_g5x3",
+        "kinglear00will",
+        "kinglear0000salg",
+        "tragedyofkinglea0000shak_p2k2",
+        "isbn_9781557834362",
+        "tragedyofkinglea0000shak",
+        "kinglear200shak",
+        "kinglea00shak",
+        "tragedyofkinglea0000shak_e0g0",
+        "kinglear0000shak_j3w1"
+      ],
+      "ia_collection": [
+        "California-State-Suggested-Reading",
+        "JaiGyan",
+        "ServantsOfKnowledge-Print",
+        "americana",
+        "americanuniversity-ol",
+        "audio_bookspoetry",
+        "barryuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "books",
+        "booksbylanguage",
+        "booksbylanguage_urdu",
+        "bostonpubliclibrary",
+        "bpljordan-ol",
+        "bplsceep",
+        "bplsctpbs",
+        "brigham_young_university",
+        "cdl",
+        "claremont_school_of_theology",
+        "cnusd-ol",
+        "cornell",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "europeanlibraries",
+        "framingham-ol",
+        "getty",
+        "gutenberg",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "ibteda",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "library_of_congress",
+        "librivoxaudio",
+        "marygrovecollege",
+        "marymount-ol",
+        "miltonpubliclibrary-ol",
+        "nationalyiddishbookcenter",
+        "occidentalcollegelibrary-ol",
+        "oliverwendellholmeslibrary",
+        "openlibrary-d-ol",
+        "phillipsacademy",
+        "phillipsacademy-preview",
+        "printdisabled",
+        "riceuniversity-ol",
+        "robarts",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "toronto",
+        "trent_university",
+        "tulsacc-ol",
+        "ualberta_historical_school",
+        "ualbertawiedrick",
+        "udc-ol",
+        "unb-ol",
+        "uni-ol",
+        "university_of_alberta_libraries",
+        "university_of_illinois_urbana-champaign",
+        "university_of_toronto",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "universityofottawa",
+        "universityofthewest-ol",
+        "universitywesterno",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL259026W",
+      "language": [
+        "arm",
+        "urd",
+        "ota",
+        "ara",
+        "geo",
+        "tur",
+        "slv",
+        "gre",
+        "epo",
+        "afr",
+        "ita",
+        "fin",
+        "ger",
+        "und",
+        "dut",
+        "heb",
+        "tel",
+        "hun",
+        "pol",
+        "pan",
+        "bul",
+        "fre",
+        "rus",
+        "hrv",
+        "jpn",
+        "ukr",
+        "mul",
+        "yid",
+        "eng",
+        "por",
+        "hin",
+        "chi",
+        "bel",
+        "cat",
+        "slo",
+        "spa",
+        "swe"
+      ],
+      "lending_edition_s": "OL58645807M",
+      "lending_identifier_s": "bwb_O8-BXS-912",
+      "public_scan_b": true,
+      "title": "King Lear",
+      "id_project_gutenberg": [
+        "1532",
+        "2266",
+        "7240",
+        "1128",
+        "1794",
+        "32305",
+        "16490",
+        "18312"
+      ],
+      "id_librivox": [
+        "6430",
+        "758"
+      ]
+    },
+    {
+      "author_key": [
+        "OL23326A"
+      ],
+      "author_name": [
+        "H. Rider Haggard"
+      ],
+      "cover_edition_key": "OL27047031M",
+      "cover_i": 8665393,
+      "ebook_access": "public",
+      "edition_count": 1091,
+      "first_publish_year": 1880,
+      "has_fulltext": true,
+      "ia": [
+        "kingsolomonsmnes0000hrid",
+        "kingsolomonsmine0000sirh",
+        "bwb_KR-521-944",
+        "kingsolomonsmi00hagguoft",
+        "kingsolomonsmine00hagguoft",
+        "bwb_KT-243-541",
+        "kingsolomonsmine0000hrid_m3u4",
+        "kingsolomonsmine00hagg_3",
+        "bwb_P9-ECM-120",
+        "bwb_KU-430-231",
+        "bwb_KU-674-869",
+        "bwb_KQ-022-004",
+        "bwb_KU-400-639",
+        "bwb_KT-831-603",
+        "bwb_KO-850-144",
+        "kingsolomonsmine0000sirh_u5j2",
+        "kingsolomonmines0000unse",
+        "kingsolomonsmine00hagg",
+        "kingsolomonsmine0000ride",
+        "kingsolomonsmine0000hrid_x4i7",
+        "kingsolomonsmine0000hrid_f5l5",
+        "kingsolomonsmine0000hagg_h5n2",
+        "konigsalomonsdia0000hagg",
+        "kingsolomonsmine0000hagg_i9k4",
+        "kingsolomonsmine0000hagg_u7g9",
+        "kingsolomonsmine00hagg_1",
+        "kingsolomonsmine0000hagg_q7q9",
+        "bwb_KR-536-870",
+        "kingsolomonsmine0000hagg_w8p7",
+        "lasminasdelreysa0000hagg",
+        "kingsolomonsmine0000hrid_p0f2",
+        "kingsolomonsmine0000hagg_b0v5",
+        "kingsolomonsmine00hrid",
+        "suoluomenwangdeb0000haig",
+        "kingsolomonsmine0000hrid_a1n4",
+        "kingsolomonsmine0000hagg_v1f6",
+        "kingsolomonsmine0000hagg_y9s5",
+        "kingsolomonsmine0000hagg_q8s2",
+        "suoluomenwangdeb0000hagg",
+        "kingsolomonsmine0000punt",
+        "kingsolomonsmine0000hagg_q2h3",
+        "asminasdesalomao0000hagg",
+        "kingsolomonsmine0000hagg_n6w9",
+        "kingsolomonsmine0000hagg_v6w8"
+      ],
+      "ia_collection": [
+        "americana",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_congress",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "robarts",
+        "toronto",
+        "university_of_toronto",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wrlc-ol"
+      ],
+      "key": "/works/OL17448W",
+      "language": [
+        "urd",
+        "tur",
+        "ita",
+        "ger",
+        "und",
+        "sna",
+        "dut",
+        "baq",
+        "heb",
+        "swa",
+        "fre",
+        "rus",
+        "mul",
+        "sun",
+        "eng",
+        "por",
+        "hin",
+        "chi",
+        "spa"
+      ],
+      "lending_edition_s": "OL58898811M",
+      "lending_identifier_s": "kingsolomonsmnes0000hrid",
+      "public_scan_b": true,
+      "title": "King Solomon's Mines",
+      "id_standard_ebooks": [
+        "h-rider-haggard/king-solomons-mines"
+      ]
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL53265809M",
+      "cover_i": 14657166,
+      "ebook_access": "borrowable",
+      "edition_count": 73,
+      "first_publish_year": 1985,
+      "has_fulltext": true,
+      "ia": [
+        "laexpedicion0000king",
+        "brumenouvelles0000king_v5v3",
+        "stephenkingsskel00king",
+        "skeletoncrew00king",
+        "brume0000step",
+        "skeletoncrewstor0000step",
+        "skeletoncr00kig",
+        "skeletoncrew00step",
+        "skeletoncrew0000unse",
+        "skeletoncr00king",
+        "skeletoncrewking00king",
+        "skeletoncrew0000king_q0b3",
+        "skeletoncre00king",
+        "skeletoncrewstor0000king",
+        "isbn_9780329064730",
+        "bwb_P8-CMN-724",
+        "bwb_KR-694-163"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "universityofarizona-ol",
+        "uslprototype",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81627W",
+      "language": [
+        "eng",
+        "dut",
+        "fre",
+        "ita",
+        "rus",
+        "pol",
+        "spa"
+      ],
+      "lending_edition_s": "OL22931329M",
+      "lending_identifier_s": "laexpedicion0000king",
+      "public_scan_b": false,
+      "title": "Skeleton crew"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL24906649M",
+      "cover_i": 10713447,
+      "ebook_access": "borrowable",
+      "edition_count": 49,
+      "first_publish_year": 1925,
+      "has_fulltext": true,
+      "ia": [
+        "221119630000king",
+        "221163frenchedit0000step",
+        "1122630000unse",
+        "112263novel0000king_a7f3",
+        "112263king",
+        "isbn_9781451627299",
+        "112263novel0000king",
+        "220000king",
+        "1122630000king",
+        "isbn_9781451694956",
+        "1122630000king_n0y8"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "uni-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL16002468W",
+      "language": [
+        "por",
+        "spa",
+        "eng",
+        "chi",
+        "heb",
+        "fre",
+        "dut",
+        "ita",
+        "rus"
+      ],
+      "lending_edition_s": "OL32780082M",
+      "lending_identifier_s": "221119630000king",
+      "public_scan_b": false,
+      "title": "11/22/63"
+    },
+    {
+      "author_key": [
+        "OL142404A"
+      ],
+      "author_name": [
+        "T. H. White"
+      ],
+      "cover_edition_key": "OL23243757M",
+      "cover_i": 6630521,
+      "ebook_access": "printdisabled",
+      "edition_count": 81,
+      "first_publish_year": 1939,
+      "has_fulltext": true,
+      "ia": [
+        "oncefutureking0000thwh_t6o2",
+        "oncefutureking0000thwh_x5c9",
+        "oncefutureking0000thwh_y2y2",
+        "oncefutureking00spar",
+        "oncefutureking0000whit_q3x3",
+        "oncefutureking0000whit_v4z7",
+        "oncefutureking00whit_1",
+        "oncefutureking00thwh",
+        "oncefutureking0000whit_p5i5",
+        "oncefutureking00whitrich",
+        "oncefutureking00whit_0",
+        "oncefutureking00whit",
+        "korolarturv2t00whit",
+        "oncefuturekingth00whit"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "brynmawr-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "denverpubliclibrary-ol",
+        "framingham-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "tulsacc-ol",
+        "udc-ol",
+        "unb-ol",
+        "uni-ol",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL1388028W",
+      "language": [
+        "spa",
+        "heb",
+        "rus",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Once and Future King"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL50998939M",
+      "cover_i": 14653991,
+      "ebook_access": "borrowable",
+      "edition_count": 88,
+      "first_publish_year": 1979,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9782709603041",
+        "laccident0000na",
+        "dodelijkdilemma0000king_y4l4",
+        "laccident0000king",
+        "lazonamorta0000king",
+        "dodelijkdilemma0000king",
+        "mertvaiazonaroma0000king",
+        "siwangquyu0001king",
+        "deadzone0000unse_n7q5",
+        "bwb_P8-BFZ-327",
+        "laccidentfrenche0000step",
+        "deadzone0000unse",
+        "deadzonenovel0000step",
+        "deadzone00step",
+        "deadzone0000unse_s6o8",
+        "deadzone0000king_k0v2",
+        "deadzonekingstep00king",
+        "deadzoneking00king",
+        "deadzone0000king_f3h3",
+        "deadzone0000king_d5o5",
+        "deadzone00king_0",
+        "lazonamuertajetd00step",
+        "deadzonedasatten0000step",
+        "deadzone0000king",
+        "deadzone00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "bannedbooks",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "denverpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81630W",
+      "language": [
+        "ita",
+        "eng",
+        "fre",
+        "srp",
+        "spa",
+        "gre",
+        "pol",
+        "por",
+        "dut",
+        "chi",
+        "tur",
+        "ger",
+        "rus"
+      ],
+      "lending_edition_s": "OL42939861M",
+      "lending_identifier_s": "isbn_9782709603041",
+      "public_scan_b": false,
+      "title": "The Dead Zone"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL7948976M",
+      "cover_i": 14654054,
+      "ebook_access": "borrowable",
+      "edition_count": 61,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "cep0000king",
+        "phone00meis",
+        "cellulaireroman0000king",
+        "cell00step",
+        "stephenkingcell0000unse",
+        "cell0000step",
+        "cellsupertascabi0000na",
+        "cellnovel0000king_g5e9",
+        "cellnovel0000king_a6x3",
+        "cellnovel0000step",
+        "cell0000king_z6o5",
+        "cellnovel0000king_e4n4",
+        "cell0000king",
+        "isbn_9781473625754",
+        "cellnovel0000king",
+        "cellulairefrench0000step",
+        "cellnovel00king",
+        "isbn_9780786285686",
+        "cell0000king_d9d7"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "schroederlibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81597W",
+      "language": [
+        "eng",
+        "ita",
+        "tur",
+        "ger",
+        "spa",
+        "rus",
+        "por",
+        "fre",
+        "chi"
+      ],
+      "lending_edition_s": "OL35595822M",
+      "lending_identifier_s": "cep0000king",
+      "public_scan_b": false,
+      "title": "Cell"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL27901886M",
+      "cover_i": 14651337,
+      "ebook_access": "borrowable",
+      "edition_count": 65,
+      "first_publish_year": 1960,
+      "has_fulltext": true,
+      "ia": [
+        "nochnayasmena00stiv",
+        "nightshift00step",
+        "nightshiftsignet00step",
+        "nightshiftchines0000unse",
+        "nightshift0000na",
+        "nightshift0000step",
+        "nachtschicht0000king",
+        "nightshift0000king",
+        "nightsh00king",
+        "dansemacabre0000king_d1n0",
+        "isbn_0451094352",
+        "nightshiftking00king",
+        "nightshift00king",
+        "nightshift0000king_a3q5",
+        "nightshift00step_0",
+        "nightshift0000unse_n5i3"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "uni-ol"
+      ],
+      "key": "/works/OL81608W",
+      "language": [
+        "rus",
+        "eng",
+        "spa",
+        "ger",
+        "ita",
+        "chi",
+        "fre"
+      ],
+      "lending_edition_s": "OL12543670M",
+      "lending_identifier_s": "nochnayasmena00stiv",
+      "public_scan_b": false,
+      "title": "Night Shift"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8404327,
+      "ebook_access": "borrowable",
+      "edition_count": 67,
+      "first_publish_year": 1991,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9788381252287",
+        "ruhlardukkan0000king",
+        "bazaarroman0000king_h9j6",
+        "bazaarroman0000king",
+        "nuzjnyjevesjtji0000king",
+        "sklepikzmarzenia0000king",
+        "denoodzaak0000king",
+        "needfulthings0000unse",
+        "needfulthi00king",
+        "needfulthings00step",
+        "needfulthings0000step",
+        "bwb_KS-215-712",
+        "needfulthings0000unse_x0t5",
+        "needfulthings0000unse_i4r5",
+        "needfulthings0000step_q4k1",
+        "bwb_KS-545-169",
+        "sklepikzmarzenia0000king_l8o3",
+        "lccn_051488024958_36j",
+        "needfulthingsnov0000king",
+        "needfulthings0000king",
+        "needfulthings0000king_d4u1",
+        "bixupinzhuanmaid0000king",
+        "bazaar0000step",
+        "needfulthings00king",
+        "needfulthingsking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "unb-ol",
+        "uni-ol",
+        "uslprototype",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81607W",
+      "language": [
+        "chi",
+        "rus",
+        "ger",
+        "tur",
+        "dut",
+        "spa",
+        "ita",
+        "fre",
+        "pol",
+        "por",
+        "eng"
+      ],
+      "lending_edition_s": "OL53053940M",
+      "lending_identifier_s": "isbn_9788381252287",
+      "public_scan_b": false,
+      "title": "Needful Things"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL23224107M",
+      "cover_i": 14651549,
+      "ebook_access": "borrowable",
+      "edition_count": 50,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "lacpula0000king",
+        "underdomenovel00king",
+        "underdome0000king",
+        "isbn_4118791012990",
+        "underdomenovel0000king",
+        "underdomenovel0000king_o7z6",
+        "isbn_9781410423962",
+        "undenovel00king",
+        "underdomenovel0000king_h7p8"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "unb-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL14917748W",
+      "language": [
+        "ger",
+        "spa",
+        "por",
+        "heb",
+        "eng",
+        "fin",
+        "pol"
+      ],
+      "lending_edition_s": "OL26110009M",
+      "lending_identifier_s": "lacpula0000king",
+      "public_scan_b": false,
+      "title": "Under the Dome"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL7574109M",
+      "cover_i": 14653609,
+      "ebook_access": "borrowable",
+      "edition_count": 39,
+      "first_publish_year": 1979,
+      "has_fulltext": true,
+      "ia": [
+        "marcheoucreve0000king_z1p3",
+        "marcheoucreverom0000bach",
+        "demarathon0000king",
+        "longwalknovel0000king",
+        "longwalk0000king",
+        "longwalk0000bach",
+        "todesmarschroman0000king",
+        "longwalk0000bach_u8w6",
+        "marcheoucreve0000king"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL9973101W",
+      "language": [
+        "eng",
+        "por",
+        "dut",
+        "fre",
+        "rus",
+        "pol",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL45715696M",
+      "lending_identifier_s": "marcheoucreve0000king_z1p3",
+      "public_scan_b": false,
+      "title": "The Long Walk"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL4100374M",
+      "cover_i": 12015446,
+      "ebook_access": "borrowable",
+      "edition_count": 78,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9789021014166",
+        "ogenvanvuur0000king",
+        "charlieroman0000king",
+        "feuerkindunheiml0000king",
+        "firestartersigne00step",
+        "firestarter0000king",
+        "firestarter0000king_y2y0",
+        "bwb_KS-339-923",
+        "firestarter0000unse",
+        "bwb_T2-EGS-497",
+        "firestarter0000king_r1w2",
+        "firestarter0000king_u8g3",
+        "charlie0000step",
+        "isbn_9782290308363",
+        "ojosdefuego00step",
+        "firestarter0000king_q5a3",
+        "firestarter0000step",
+        "firestarter0000king_i8k6",
+        "bwb_O7-ASR-688",
+        "firestarterthe00king",
+        "firestarterking00king",
+        "firestarter00king",
+        "firestarter00kingrich",
+        "cd_firestarter_stephen-king"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "marymount-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL81623W",
+      "language": [
+        "tur",
+        "eng",
+        "dut",
+        "fre",
+        "rus",
+        "pol",
+        "ger",
+        "spa",
+        "und"
+      ],
+      "lending_edition_s": "OL45747388M",
+      "lending_identifier_s": "isbn_9789021014166",
+      "public_scan_b": false,
+      "title": "Firestarter"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL2050421M",
+      "cover_i": 14651245,
+      "ebook_access": "borrowable",
+      "edition_count": 77,
+      "first_publish_year": 1987,
+      "has_fulltext": true,
+      "ia": [
+        "hettekenvandrie0000king",
+        "latorreoscuraiil0000king",
+        "dreiroman0000king",
+        "lestroiscartes0000king_k5y7",
+        "darktowerdrawing0000unse",
+        "drawingofthreeth00step_0",
+        "drawingofthreeth00step",
+        "drawingofthree00king",
+        "drawingofthreeda00king",
+        "lestroiscartesto0000step",
+        "bwb_KQ-002-856",
+        "toursombret2lest0000king",
+        "drawingofthree0000king_i8u2",
+        "drawingofthree0000king_p9d5",
+        "drawingofthreethe00king",
+        "drawingofthree0000king_z5u7",
+        "drawingofthree0000king",
+        "drawingofthree0000king_h6q8",
+        "lestroiscartes0000king",
+        "isbn_2277250333",
+        "drawingofthree0000king_f4h0",
+        "drawingofthreeking00king",
+        "drawingofthree0000king_j8l8"
+      ],
+      "ia_collection": [
+        "americana",
+        "belmont-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "spokanepubliclibrary-ol",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81616W",
+      "language": [
+        "eng",
+        "por",
+        "dut",
+        "fre",
+        "ita",
+        "chi",
+        "rus",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL39197080M",
+      "lending_identifier_s": "hettekenvandrie0000king",
+      "public_scan_b": false,
+      "title": "The Drawing of the Three"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL53202200M",
+      "cover_i": 14655985,
+      "ebook_access": "borrowable",
+      "edition_count": 64,
+      "first_publish_year": 1983,
+      "has_fulltext": true,
+      "ia": [
+        "stephenking0000unse_g6s9",
+        "kristina0000stiv",
+        "christineking00king",
+        "christinebykings0000step",
+        "isbn_4026411114705",
+        "christine0000king",
+        "christine00slpo",
+        "christinenovel0000king",
+        "isbn_950040320x",
+        "christine00king",
+        "christinekingstep00king",
+        "christinestep00king"
+      ],
+      "ia_collection": [
+        "California-State-Suggested-Reading",
+        "americana",
+        "bannedbooks",
+        "books",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81619W",
+      "language": [
+        "chi",
+        "rus",
+        "ger",
+        "tur",
+        "spa",
+        "ita",
+        "fre",
+        "und",
+        "por",
+        "eng"
+      ],
+      "lending_edition_s": "OL22316379M",
+      "lending_identifier_s": "stephenking0000unse_g6s9",
+      "public_scan_b": false,
+      "title": "Christine"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL32936664M",
+      "cover_i": 14653458,
+      "ebook_access": "borrowable",
+      "edition_count": 75,
+      "first_publish_year": 1998,
+      "has_fulltext": true,
+      "ia": [
+        "sacdosroman0000king_w8w7",
+        "sacdosroman0000king",
+        "sacdos0000king",
+        "unsacodehuesos0000king",
+        "unsacodehuesos00step",
+        "worekkosci0000unse",
+        "stephenking0000unse_h4b7",
+        "bagofbonesnovel0000step",
+        "isbn_9780613171007",
+        "sacdos0000step",
+        "mucchiodossa0000unse",
+        "bagofbones0000king_h4s8",
+        "isbn_0340729449",
+        "bagofbones0000king_j6d4",
+        "sacdosroman0000king_t1y3",
+        "bagofbones0000king_e5l6",
+        "bagofbones0000unse",
+        "bagofbones0000king_w0x7",
+        "bagofbones0000king_l1e1",
+        "bagofbones00king_1",
+        "bagon00king",
+        "bagofbone00king",
+        "bagofbones0000king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "friendsofthesanfranciscopubliclibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL81609W",
+      "language": [
+        "ita",
+        "eng",
+        "pol",
+        "ger",
+        "por",
+        "rus",
+        "chi",
+        "spa",
+        "fre"
+      ],
+      "lending_edition_s": "OL34028033M",
+      "lending_identifier_s": "sacdosroman0000king_w8w7",
+      "public_scan_b": false,
+      "title": "Bag of Bones"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL1317145M",
+      "cover_i": 8443630,
+      "ebook_access": "borrowable",
+      "edition_count": 70,
+      "first_publish_year": 1991,
+      "has_fulltext": true,
+      "ia": [
+        "besplodnyezemlir0000king",
+        "latoursombre0000king",
+        "latoursombre3ter0000step",
+        "wastelands00king",
+        "wastelands0000step",
+        "wastelands00king_0",
+        "huangyuanwastela0000king",
+        "wastelandsthe00king",
+        "wastelands0000king_h0b3",
+        "wastelands0000king_o6s4",
+        "wastelands0000king",
+        "bwb_P8-CDZ-007",
+        "wastelandsthedar00step_0",
+        "wastelandsthedar00step",
+        "wastelands0001king",
+        "wastelands0000king_e9l4",
+        "wastelandsking00king",
+        "wastelandsdarkto00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81625W",
+      "language": [
+        "spa",
+        "tur",
+        "eng",
+        "chi",
+        "ita",
+        "por",
+        "rus",
+        "fre",
+        "ger"
+      ],
+      "lending_edition_s": "OL38631447M",
+      "lending_identifier_s": "besplodnyezemlir0000king",
+      "public_scan_b": false,
+      "subtitle": "As Terras Devastadas",
+      "title": "A Torre Negra"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL26869511M",
+      "cover_i": 8565607,
+      "ebook_access": "borrowable",
+      "edition_count": 19,
+      "first_publish_year": 1985,
+      "has_fulltext": true,
+      "ia": [
+        "bachmanbooksfour00king",
+        "bachmanbooks00rich",
+        "bachmanbooksf00king",
+        "bachmanbooksfour00kin_zsv",
+        "bachmanbooksfou00king",
+        "bachmanbooksfour0000bach",
+        "bachmanbooks00step",
+        "bachmanbooksfour0000king",
+        "baghmanbooksfour00king",
+        "bachmanbooks0000unse",
+        "bachmanbooksrage0000rich",
+        "bachmanbooks0000step"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofoklahoma-ol"
+      ],
+      "key": "/works/OL81591W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL7572129M",
+      "lending_identifier_s": "bachmanbooksfour00king",
+      "public_scan_b": false,
+      "title": "The Bachman Books (Long Walk / Rage / Roadwork / Running Man)"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL32039360M",
+      "cover_i": 10705875,
+      "ebook_access": "borrowable",
+      "edition_count": 56,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "jessieroman0000king",
+        "dasspielroman0000king",
+        "isbn_B000JGQO9Q",
+        "juegodegeraldel00step",
+        "geraldsgame0000unse_o3r1",
+        "geraldsgame0000unse_d8f9",
+        "dasspielroman0000king_z9h1",
+        "geraldsgamenovel0000king",
+        "geraldsgame01king",
+        "jessie0000king",
+        "geraldsgame0000king",
+        "geraldsgameking00king",
+        "geraldsgame0000unse",
+        "geraldsgamekingstep00king",
+        "geraldsgame00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "denverpubliclibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL81617W",
+      "language": [
+        "rus",
+        "tur",
+        "pol",
+        "fre",
+        "ger",
+        "spa",
+        "eng"
+      ],
+      "lending_edition_s": "OL32886642M",
+      "lending_identifier_s": "jessieroman0000king",
+      "public_scan_b": false,
+      "title": "Gerald's Game"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL15576556M",
+      "cover_i": 14652470,
+      "ebook_access": "borrowable",
+      "edition_count": 50,
+      "first_publish_year": 2003,
+      "has_fulltext": true,
+      "ia": [
+        "kalazhilang0005unse",
+        "wolfsmondderdunk0000king",
+        "wolvesofcalla00king",
+        "wolvesofcalla0000king_v6v9",
+        "wolvesofcalla00step",
+        "bwb_0-7432-5162-8",
+        "mrocznawiezat5wi0000step",
+        "volkikali0000step",
+        "wolvesofcalla0000king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "riceuniversity-ol",
+        "salisburyfreelibrary-ol",
+        "schroederlibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81594W",
+      "language": [
+        "chi",
+        "rus",
+        "ger",
+        "ita",
+        "por",
+        "spa",
+        "eng",
+        "pol"
+      ],
+      "lending_edition_s": "OL28301113M",
+      "lending_identifier_s": "kalazhilang0005unse",
+      "public_scan_b": false,
+      "title": "Wolves of the Calla"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8274288,
+      "ebook_access": "borrowable",
+      "edition_count": 62,
+      "first_publish_year": 1984,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9781444753448",
+        "thinner0000king",
+        "maldicaodocigano0000king",
+        "lapeausurlesosro0000step",
+        "thinnerb00bach",
+        "thinnerking00king",
+        "thinner00king",
+        "lapeausulesos0000step",
+        "locchiodelmale0000king",
+        "thinner0000king_p8j1",
+        "thinner0000bach",
+        "thinner0000rich",
+        "thinnerbach00bach",
+        "isbn_9780340794203",
+        "thinnernovel00king",
+        "hudeyuschiy00rich",
+        "thinner00bach",
+        "thinner00step_0"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol"
+      ],
+      "key": "/works/OL149210W",
+      "language": [
+        "rus",
+        "ita",
+        "dut",
+        "spa",
+        "pol",
+        "por",
+        "fre",
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL43203811M",
+      "lending_identifier_s": "isbn_9781444753448",
+      "public_scan_b": false,
+      "title": "Thinner"
+    },
+    {
+      "author_key": [
+        "OL162057A"
+      ],
+      "author_name": [
+        "Robert W. Chambers"
+      ],
+      "cover_edition_key": "OL8204926M",
+      "cover_i": 4752788,
+      "ebook_access": "public",
+      "edition_count": 479,
+      "first_publish_year": 1895,
+      "has_fulltext": true,
+      "ia": [
+        "kinginyellow0000robe_d8v3",
+        "kinginyellow00cham_0",
+        "kinginyellow00chamrich",
+        "kinginyellow00chamuoft",
+        "kinginyellow0000cham"
+      ],
+      "ia_collection": [
+        "americana",
+        "cdl",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_congress",
+        "printdisabled",
+        "robarts",
+        "toronto",
+        "university_of_toronto"
+      ],
+      "key": "/works/OL8127201W",
+      "language": [
+        "ger",
+        "eng",
+        "spa"
+      ],
+      "lending_edition_s": "OL49631747M",
+      "lending_identifier_s": "kinginyellow0000robe_d8v3",
+      "public_scan_b": true,
+      "title": "The King in Yellow",
+      "id_standard_ebooks": [
+        "robert-w-chambers/the-king-in-yellow"
+      ]
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8524085,
+      "ebook_access": "borrowable",
+      "edition_count": 65,
+      "first_publish_year": 1959,
+      "has_fulltext": true,
+      "ia": [
+        "oczysmoka0000king",
+        "lesyeuxdudragon0000step",
+        "eyesofdragon00step",
+        "lesyeuxdudragonf0000step",
+        "eyesofdragon00king",
+        "isbn_0451165861",
+        "eyesofdragonnove0000step",
+        "dieaugendesdrach0000unse",
+        "eyesofdragon0000king_f3q3",
+        "eyesofdragon0000king",
+        "eyesofdragonstor0000king_o7e1",
+        "eyesofdragon000king",
+        "eyesofdragonstor0000king",
+        "eyesofdragonstor00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81602W",
+      "language": [
+        "eng",
+        "pol",
+        "ger",
+        "spa",
+        "rus",
+        "fre",
+        "chi"
+      ],
+      "lending_edition_s": "OL32069485M",
+      "lending_identifier_s": "oczysmoka0000king",
+      "public_scan_b": false,
+      "title": "The Eyes of the Dragon"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL49825722M",
+      "cover_i": 14655761,
+      "ebook_access": "borrowable",
+      "edition_count": 61,
+      "first_publish_year": 1982,
+      "has_fulltext": true,
+      "ia": [
+        "czteryporyroku0000king_v8j3",
+        "4seizoenen0000king",
+        "xiaoshenkedejius0000king",
+        "differentessaiso0000king",
+        "differentseasons00king_2",
+        "differentseasons00king_0",
+        "differentseasons0000step_q8i5",
+        "aptpupil0000step",
+        "xiaoshenkedejius0000king_x9z1",
+        "differentseasons0000step",
+        "differentessaiso0000king_z6h7",
+        "czteryporyroku0000king",
+        "differentseasons0000king",
+        "dieverurteiltenf0000step",
+        "differentessaiso0000step",
+        "differentseasonskin00king",
+        "isbn_0451160940",
+        "isbn_9787770935152",
+        "differentseasons00king",
+        "chetyresezona0000king"
+      ],
+      "ia_collection": [
+        "California-State-Suggested-Reading",
+        "americana",
+        "americanuniversity-ol",
+        "books",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "tulsacc-ol",
+        "udc-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81621W",
+      "language": [
+        "chi",
+        "rus",
+        "tur",
+        "ger",
+        "ita",
+        "dut",
+        "spa",
+        "fre",
+        "eng",
+        "pol"
+      ],
+      "lending_edition_s": "OL39812686M",
+      "lending_identifier_s": "czteryporyroku0000king_v8j3",
+      "public_scan_b": false,
+      "title": "Different Seasons"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL20295765M",
+      "cover_i": 14653580,
+      "ebook_access": "borrowable",
+      "edition_count": 70,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "holcickakteramel0000king",
+        "dasmadchenroman0000king",
+        "lapetitefillequi0000king_g6h6",
+        "lapetitefillequi0000king",
+        "lachicaqueamabat0000king",
+        "devochkakotoraia00king",
+        "girlwholovedtomg0000step_y7t8",
+        "dasmdchenweierum0000step",
+        "dasmdchenroman0000step",
+        "isbn_9788401328374",
+        "girlwholovedtomg0000unse",
+        "bwb_KU-068-352",
+        "girlwholovedtomg0000king",
+        "girlwholovedtomg00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL81612W",
+      "language": [
+        "rus",
+        "ita",
+        "pol",
+        "fre",
+        "ger",
+        "spa",
+        "por",
+        "cze",
+        "eng"
+      ],
+      "lending_edition_s": "OL32780583M",
+      "lending_identifier_s": "holcickakteramel0000king",
+      "public_scan_b": false,
+      "title": "The Girl Who Loved Tom Gordon"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL430254M",
+      "cover_i": 14657088,
+      "ebook_access": "borrowable",
+      "edition_count": 71,
+      "first_publish_year": 1997,
+      "has_fulltext": true,
+      "ia": [
+        "glasroman0000king",
+        "mrocznawiezaivcz0000na",
+        "wizardglass00step",
+        "wizardglasstheda00step_0",
+        "wizardglasstheda00step",
+        "wizardglass00king",
+        "toursombret4magi0000king",
+        "wizardglass0000step_k4n4",
+        "wizardglass0000unse_i9h3",
+        "koldunikristall0001king",
+        "wizardglass0004king",
+        "wizardglass0000step",
+        "wizardglass0000king_j0g0",
+        "darktowerwizardg0000unse",
+        "wizardglass0000unse",
+        "wizardglass0000king",
+        "wizardglass0000king_e8j0",
+        "darktowerwizardg0000step",
+        "wizardglass0000king_z7g0",
+        "wizardglass0000king_o3f1",
+        "wizardandglass00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "belmont-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "framingham-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81615W",
+      "language": [
+        "eng",
+        "por",
+        "fre",
+        "ita",
+        "chi",
+        "rus",
+        "pol",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL25549708M",
+      "lending_identifier_s": "glasroman0000king",
+      "public_scan_b": false,
+      "title": "Wizard and Glass"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8413143,
+      "ebook_access": "borrowable",
+      "edition_count": 64,
+      "first_publish_year": 1990,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9789021012261",
+        "quattrodopomezza0000king",
+        "fourpastmidnight00king_0",
+        "langoliers00step",
+        "fourpastmidnight0000king_d4r6",
+        "fourpastmidnight0000step",
+        "bwb_KS-138-507",
+        "fourpastmidnight0000unse_f2t0",
+        "fourpastmidnight0000king_s6c1",
+        "fourpastmidnight00kin_8ig",
+        "fourpastmidnight0000king_l6t5",
+        "fourpastmidnight0000king_m7s1",
+        "fourpastmidnight0000king_l5d1",
+        "fourpastmidnight0000king",
+        "fourpastmidnight0000king_w0y2",
+        "fourpastmidnight00king",
+        "fourpastmidnight0000unse",
+        "fourpastmidnightking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81606W",
+      "language": [
+        "dut",
+        "pol",
+        "eng",
+        "spa",
+        "ita",
+        "fre",
+        "und",
+        "rus",
+        "por"
+      ],
+      "lending_edition_s": "OL47163683M",
+      "lending_identifier_s": "isbn_9789021012261",
+      "public_scan_b": false,
+      "title": "Four Past Midnight"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 12018685,
+      "ebook_access": "borrowable",
+      "edition_count": 40,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "czarnabezgwiezdn0000king_k1w9",
+        "aardedonkerzonde0000king_w4m4",
+        "czarnabezgwiezdn0000king",
+        "aardedonkerzonde0000king",
+        "nuitnoireetoiles0000king",
+        "todooscurosinest0000step",
+        "fulldarknostars0000king_c0q5",
+        "fulldarknostars0000king_t0j0",
+        "fulldarknostars0000king_e6t9",
+        "fulldarknostars0000king",
+        "isbn_9781451648867",
+        "fulldarknostars0000step",
+        "fulldarknostars00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL15374110W",
+      "language": [
+        "pol",
+        "eng",
+        "fre",
+        "rus",
+        "ger",
+        "chi",
+        "spa",
+        "dut"
+      ],
+      "lending_edition_s": "OL38561482M",
+      "lending_identifier_s": "czarnabezgwiezdn0000king_k1w9",
+      "public_scan_b": false,
+      "title": "Full Dark, No Stars"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8578049,
+      "ebook_access": "borrowable",
+      "edition_count": 57,
+      "first_publish_year": 1995,
+      "has_fulltext": true,
+      "ia": [
+        "stephenking0000rose",
+        "dasbildrosemadde0000king",
+        "rosemadder0000unse",
+        "stephenking0000unse_l3p8",
+        "marenovaiarosaro0000king",
+        "rosemadder0000king_c1g3",
+        "rosemadder0000king_u6p2",
+        "rosemadder0000king_m9y5",
+        "rosemadder0000king",
+        "rosemaddernovel0000king",
+        "isbn_1580600697",
+        "rosemadder1995unse",
+        "rosemadder0000king_s2q3",
+        "stephenking0000unse_j4z2",
+        "rosemadder00king_0",
+        "rosemadder0000king_v0t1",
+        "rosemadder00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81614W",
+      "language": [
+        "eng",
+        "por",
+        "fre",
+        "rus",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL43478637M",
+      "lending_identifier_s": "stephenking0000rose",
+      "public_scan_b": false,
+      "title": "Rose Madder"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8443662,
+      "ebook_access": "borrowable",
+      "edition_count": 48,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "stephenkingsdans0000king",
+        "stephenkingsdans0000king_g6x7",
+        "isbn_0425079848",
+        "dansemacabre00step",
+        "stephenkingsdans00step",
+        "stephenkingsdans00king",
+        "dansemacabre0000king_t4e6",
+        "dansemacabre0000king_d0w3",
+        "stephenkingsdans0000step",
+        "dansemacabrediew0000step",
+        "stephenkingsdans00king_0",
+        "dansemacabre0000king",
+        "isbn_0425099350",
+        "dansemacabretr0000step"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL81605W",
+      "language": [
+        "ita",
+        "eng",
+        "pol",
+        "hun",
+        "und",
+        "jpn",
+        "ger",
+        "rus"
+      ],
+      "lending_edition_s": "OL7777738M",
+      "lending_identifier_s": "stephenkingsdans0000king",
+      "public_scan_b": false,
+      "title": "Danse Macabre"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8585782,
+      "ebook_access": "borrowable",
+      "edition_count": 60,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9789024539246",
+        "isbn_9789024557752",
+        "everythingsevent00step",
+        "wszystkojestwzgl0000king",
+        "everythingsevent0000unse",
+        "everythingsevent0000step",
+        "everythingse00king",
+        "stephenking0000unse_h5a0",
+        "everythingsevent0000king_m1u3",
+        "holaeinaidynata10000king",
+        "toutestfatal0000king",
+        "everythingsevent0000king",
+        "everythingsevent00step_0",
+        "toutestfatalnouv0000unse",
+        "everythingsevent00king_1",
+        "everythingsevent00king",
+        "everythingseventking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81584W",
+      "language": [
+        "rus",
+        "ger",
+        "dut",
+        "spa",
+        "por",
+        "fre",
+        "eng",
+        "per",
+        "gre",
+        "pol"
+      ],
+      "lending_edition_s": "OL47274013M",
+      "lending_identifier_s": "isbn_9789024539246",
+      "public_scan_b": false,
+      "title": "Everything's Eventual. 14 Dark Tales"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8536326,
+      "ebook_access": "borrowable",
+      "edition_count": 55,
+      "first_publish_year": 1998,
+      "has_fulltext": true,
+      "ia": [
+        "coeursperdusenat0000king",
+        "coeursperdusenat0000king_f5u1",
+        "sercaatlantydow0000king",
+        "heartsinatlantis0000step",
+        "bwb_KO-931-406",
+        "heartsinatlantis0000king_d4q1",
+        "heartinatlantis00step",
+        "heartsinatlantis0000king_q9p8",
+        "heartsinatlantis0000king_e8s8",
+        "isbn_B0011C7496",
+        "heartsinatlanti000king",
+        "heartsinatlantis00king_1",
+        "corazonesenlaatl00step",
+        "heartsinatlantis0000king",
+        "proceedingsofann0000acmi",
+        "heartsinatlantis00king_0",
+        "heartsinatlantis0000unse",
+        "heartsinatlantis00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "uni-ol"
+      ],
+      "key": "/works/OL81624W",
+      "language": [
+        "rus",
+        "pol",
+        "ger",
+        "eng",
+        "spa",
+        "chi",
+        "gre",
+        "fre"
+      ],
+      "lending_edition_s": "OL8888334M",
+      "lending_identifier_s": "coeursperdusenat0000king",
+      "public_scan_b": false,
+      "title": "Hearts in Atlantis"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL23245363M",
+      "cover_i": 14651654,
+      "ebook_access": "borrowable",
+      "edition_count": 55,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "elcazadordesueno0000king_w9v3",
+        "elcazadordesueno0000king",
+        "isbn_9780743216449",
+        "dreamcatcher00king",
+        "isbn_9780340831687",
+        "dreamcatcher0000king",
+        "lovetssnovroman0000king",
+        "dreamcatcher0000unse_r2g5",
+        "dreamcatcher0000king_a6v3",
+        "dreamcatchernove0000king",
+        "bwb_P8-DEO-692",
+        "dreamcatchernove0000king_o3a1",
+        "dreamcatcherroma0000king",
+        "dreamcatchernove0000king_z7f7",
+        "dreamcatchernove00king_0",
+        "dreamcatcher0000king_v8u9",
+        "dreamcatcher2001king",
+        "dreamcatchernove00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "phillipsacademy-preview",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "stmaryscountylibrary",
+        "tulsacc-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81598W",
+      "language": [
+        "rus",
+        "eng",
+        "spa",
+        "ger",
+        "und",
+        "fre"
+      ],
+      "lending_edition_s": "OL8361738M",
+      "lending_identifier_s": "elcazadordesueno0000king_w9v3",
+      "public_scan_b": false,
+      "title": "Dreamcatcher"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL33989861M",
+      "cover_i": 12018432,
+      "ebook_access": "printdisabled",
+      "edition_count": 22,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "lebazardesmauvai0000step",
+        "bazaarofbaddream0000king_o0f6",
+        "bazaarofbaddream0000king_v0k5",
+        "lebazardesmauvai0000king",
+        "bazaarofbaddream0000king_v8p3",
+        "bazaarofbaddream0000step",
+        "bazaarofbaddream0000king_a9o9",
+        "bazaarofbaddream0000king"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17823750W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "The Bazaar of Bad Dreams"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8494916,
+      "ebook_access": "borrowable",
+      "edition_count": 40,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "karanlikcokunce0000step",
+        "justeavantlecrep0000king",
+        "justaftersunsets0000step",
+        "justaftersunset0000unse",
+        "justaftersunsets0000king",
+        "justaftersunset0000king_n8z2",
+        "justaftersunset0000king_s5h4",
+        "isbn_9780340993392",
+        "justaftersunset0000king",
+        "justaftersunsets00king_0",
+        "justaftersunsets00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "stmaryscountylibrary",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81588W",
+      "language": [
+        "tur",
+        "fre",
+        "heb",
+        "eng",
+        "rus",
+        "por"
+      ],
+      "lending_edition_s": "OL35595981M",
+      "lending_identifier_s": "karanlikcokunce0000step",
+      "public_scan_b": false,
+      "title": "Just After Sunset"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 6997458,
+      "ebook_access": "borrowable",
+      "edition_count": 58,
+      "first_publish_year": 1985,
+      "has_fulltext": true,
+      "ia": [
+        "tomminokery0000king",
+        "lestommyknockers0000king_k7z7",
+        "lestommyknockers0000king_d4y9",
+        "lestommyknockers0000king_d4r5",
+        "tommynockerstext00king",
+        "tommyknockers00king",
+        "bwb_P9-APE-419",
+        "stukostrachy0000step",
+        "tommyknockers0000step_v4u6",
+        "tommyknockers0000step",
+        "tommyknockers0000king_z9q4",
+        "tommyknockers0000king_w6n2",
+        "tommyknockers0000king_e9y9",
+        "tommyknockers0000step_z6b1",
+        "tommyknockers00copy",
+        "isbn_9780790986067",
+        "tommyknockers0000king",
+        "tommyknockersking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81593W",
+      "language": [
+        "eng",
+        "fre",
+        "ita",
+        "rus",
+        "pol",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL32602771M",
+      "lending_identifier_s": "tomminokery0000king",
+      "public_scan_b": false,
+      "title": "The Tommyknockers"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL27271906M",
+      "cover_i": 8757374,
+      "ebook_access": "borrowable",
+      "edition_count": 55,
+      "first_publish_year": 1996,
+      "has_fulltext": true,
+      "ia": [
+        "desperacja0000king_b6k5",
+        "desesperacion0000king",
+        "desperation0000step",
+        "desperation0000unse",
+        "desolationroman0000king",
+        "desperation0000king",
+        "desperationnovel0000king",
+        "desolation0000king",
+        "desperation0000king_m0h7",
+        "desperation0000king_r2w9",
+        "dsolation0000step",
+        "desperation00king_1",
+        "desper00king",
+        "desperationn00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81611W",
+      "language": [
+        "ger",
+        "por",
+        "ita",
+        "fre",
+        "rus",
+        "spa",
+        "pol",
+        "eng"
+      ],
+      "lending_edition_s": "OL39485515M",
+      "lending_identifier_s": "desperacja0000king_b6k5",
+      "public_scan_b": false,
+      "title": "Desperation"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8393691,
+      "ebook_access": "borrowable",
+      "edition_count": 46,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "songofsusannah00king",
+        "eenliedvansusann0000king",
+        "lacanzonedisusan0000king",
+        "mrocznawiezavipi0000na",
+        "songofsusannah00king_0",
+        "derdunkleturm06s0000step",
+        "derturmroman0000king",
+        "songofsusannah0000king"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL149200W",
+      "language": [
+        "rus",
+        "pol",
+        "eng",
+        "ita",
+        "ger",
+        "spa",
+        "chi",
+        "dut",
+        "por"
+      ],
+      "lending_edition_s": "OL24947513M",
+      "lending_identifier_s": "songofsusannah00king",
+      "public_scan_b": false,
+      "title": "Song of Susannah"
+    },
+    {
+      "author_key": [
+        "OL19981A",
+        "OL15292106A",
+        "OL15535726A"
+      ],
+      "author_name": [
+        "Stephen King",
+        "Stephen king",
+        "Ingah Mikhaʼeli"
+      ],
+      "cover_edition_key": "OL26805725M",
+      "cover_i": 14653120,
+      "ebook_access": "borrowable",
+      "edition_count": 47,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "mistmersedes0000king",
+        "panmercedes0000king",
+        "bwb_KT-587-747",
+        "mistermersedes0000king",
+        "mrmercedes0000king_n4w7",
+        "mrmercedesnovel0000king_h2m9",
+        "mrmercedes0000step",
+        "mrmercedes0000king",
+        "mrmercedesnovel0000king_r3q6",
+        "mrmercedesnovel0000king_m9z9",
+        "mrmercedesnovel0000king_g7m9",
+        "mrmercedes0000unse_y2m1",
+        "mrmercedesnovel0000king_g4z2",
+        "mrmercedesnovel0000king_j7i1",
+        "mrmercedesnovel0000king_r9u5",
+        "mrmercedes0000unse"
+      ],
+      "ia_collection": [
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL16820059W",
+      "language": [
+        "chi",
+        "ita",
+        "rus",
+        "pol",
+        "spa",
+        "heb",
+        "eng",
+        "fre",
+        "kor"
+      ],
+      "lending_edition_s": "OL27189509M",
+      "lending_identifier_s": "mistmersedes0000king",
+      "public_scan_b": false,
+      "title": "Mr. Mercedes"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL9351647M",
+      "cover_i": 14652203,
+      "ebook_access": "borrowable",
+      "edition_count": 44,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "duma0000king",
+        "dumakey00king",
+        "dumakeychineseed0000king",
+        "dumakeynovel0000step",
+        "rkamistrza0000unse",
+        "dumakeyroman0000king",
+        "dumakey0000king_o0b5",
+        "dumakey0000king",
+        "dumakeynovel0000king",
+        "isbn_9780739490150",
+        "dumake00king",
+        "dumakeynovel00king",
+        "dumakey0000king_y1o0"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL149119W",
+      "language": [
+        "dut",
+        "ger",
+        "chi",
+        "spa",
+        "eng",
+        "pol",
+        "fre",
+        "por"
+      ],
+      "lending_edition_s": "OL32780065M",
+      "lending_identifier_s": "duma0000king",
+      "public_scan_b": false,
+      "title": "Duma Key"
+    },
+    {
+      "author_key": [
+        "OL18319A"
+      ],
+      "author_name": [
+        "Mark Twain"
+      ],
+      "cover_edition_key": "OL6338772M",
+      "cover_i": 9168732,
+      "ebook_access": "public",
+      "edition_count": 788,
+      "first_publish_year": 1889,
+      "has_fulltext": true,
+      "ia": [
+        "connecticutyanke0000mark_r8h8",
+        "mark-twain_a-connecticut-yankee-in-king-arthurs-court",
+        "aconnecticutyank00086gut",
+        "connecticut_yankee_king_arthurs_court_jg_librivox",
+        "writingsofmarktw16twai",
+        "worksuniformedit03twaiuoft",
+        "connecticutyanke030320mbp",
+        "connecticutyanke012229mbp",
+        "completeworksofm05twaiiala",
+        "writingsmark16twairich",
+        "connecticutyankee_librivox",
+        "yankeeatcourtofk00twaiiala",
+        "connecticutyanke05twai",
+        "connecticutyanke00twaiuoft",
+        "marktworkswrite14twairich",
+        "connecticutyanke00twai",
+        "cu31924008489787",
+        "connectyankee00twairich",
+        "yankeeatcourtofk00twai",
+        "connecticutyanke1889twai",
+        "worksmark16twairich",
+        "connecticutyanke00twai_1",
+        "cihm_18732",
+        "connecticutyanke0000clem",
+        "connecticutyanke1902twai",
+        "writingsofmarktw04twaiuoft",
+        "aconnecticutyan01twaigoog",
+        "writingsmarktwa24warngoog",
+        "ayankeeatcourtk00unkngoog",
+        "connecticutyanke0000twai_s3p3",
+        "yankeeatcourtofk0000unse",
+        "connecticutyanke00sam_c9n",
+        "isbn_1578400163",
+        "booknightconnect0000twai",
+        "connecticutyanke0000twai_h8w9",
+        "connecticutyanke0000twai_q6g1",
+        "connecticutyanke0000twai_r5q1",
+        "connecticutyanke0000twai_h0l7",
+        "connecticutyank000twai",
+        "connecticutyanke0000twai_g7e3",
+        "connecticutyanke00twai_0",
+        "connecticutyank200twai",
+        "connecticutyanke00mark_1",
+        "connecticutyank100twai",
+        "isbn_9780688063467",
+        "connecticutyank400twai",
+        "connecticutyank300twai",
+        "connecticutyanke00clem",
+        "connecticutyanke00wash",
+        "connecticutyanke0000twai_e8a0",
+        "connecticutyanke0000twai_n3q6",
+        "connecticutyanke00mark",
+        "connyankeeinking00twai",
+        "connecticutyanke0000twai_f5i1",
+        "connecticutyanke0000twai",
+        "connecticutyanke0000mark_u2h8",
+        "isbn_9780553211436",
+        "isbn_9780451524751"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "audio_bookspoetry",
+        "belmont-ol",
+        "binghamton-ol",
+        "brigham_young_university",
+        "cdl",
+        "cnusd-ol",
+        "cornell",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "europeanlibraries",
+        "folkscanomy",
+        "framingham-ol",
+        "gutenberg",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "librivoxaudio",
+        "marygrovecollege",
+        "marymount-ol",
+        "microfilm",
+        "newyorkpubliclibrary",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "robarts",
+        "rochester-ol",
+        "sciencefiction",
+        "standardebooks",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "thomasfisher",
+        "thomasfishercanadiana",
+        "toronto",
+        "uni-ol",
+        "universallibrary",
+        "university_of_alberta_libraries",
+        "university_of_alberta_libraries_microfilm",
+        "university_of_toronto",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL54031W",
+      "language": [
+        "heb",
+        "rus",
+        "dut",
+        "pol",
+        "spa",
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL45781517M",
+      "lending_identifier_s": "connecticutyanke0000mark_r8h8",
+      "public_scan_b": true,
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "id_standard_ebooks": [
+        "mark-twain/a-connecticut-yankee-in-king-arthurs-court",
+        "mark-twain/a-connecticut-yankee-in-king-arthurs-court"
+      ],
+      "id_project_gutenberg": [
+        "86"
+      ],
+      "id_librivox": [
+        "1942",
+        "141"
+      ]
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL27902070M",
+      "cover_i": 9255997,
+      "ebook_access": "borrowable",
+      "edition_count": 51,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9782286035235",
+        "isbn_9785237013757",
+        "stephenking0000dolo",
+        "stephenkingdolor0000unse",
+        "stephenking0000dolo_a1p2",
+        "doloresclaiborne0000step",
+        "doloresclaiborne0000king",
+        "doloresderromanz0000step",
+        "doloresclaiborne0000king_n3r3",
+        "doloresclaiborne00king_0",
+        "doloresroman0000king",
+        "doloresclaiborne0000king_f2k9",
+        "doloresclaiborne00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "stmaryscountylibrary",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL81622W",
+      "language": [
+        "eng",
+        "fre",
+        "ita",
+        "rus",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL43439665M",
+      "lending_identifier_s": "isbn_9782286035235",
+      "public_scan_b": false,
+      "title": "Dolores Claiborne"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8387657,
+      "ebook_access": "borrowable",
+      "edition_count": 53,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9789024557745",
+        "isbn_9781444705614",
+        "lisaidegushi0000unse",
+        "lahistoriadelise0000king",
+        "loveroman0000king",
+        "histoiredelisey0000na",
+        "liseysstorynovel00king_0",
+        "liseysstory00step",
+        "lahistoriadelise0000king_p6j8",
+        "stephenking0000unse_b9c4",
+        "liseysstory0000step",
+        "stephenking0000unse",
+        "historialisey0000step",
+        "liseysstory0000king_h3y0",
+        "liseysstorynovel0000step",
+        "liseysstory0000unse",
+        "istoriyalizi00step",
+        "liseysstory0000king",
+        "liseysstorynovel00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81589W",
+      "language": [
+        "chi",
+        "rus",
+        "dut",
+        "fre",
+        "spa",
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL47234747M",
+      "lending_identifier_s": "isbn_9789024557745",
+      "public_scan_b": false,
+      "title": "Lisey's Story"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL26220034M",
+      "cover_i": 8530409,
+      "ebook_access": "borrowable",
+      "edition_count": 61,
+      "first_publish_year": 1989,
+      "has_fulltext": true,
+      "ia": [
+        "mrocznapoowa0000king",
+        "lapartdestenebre0000king_q9c4",
+        "temnaiapolovina0000king",
+        "starkdarkhalfrom0000king",
+        "lapartdestenebre0000king",
+        "lapartdestenebre0000king_s3b9",
+        "darkhalf00step",
+        "darkhalf00king_0",
+        "darkhalf0000unse",
+        "isbn_9781442006171",
+        "darkhalf0000step",
+        "bwb_KT-254-445",
+        "starkthedarkhalf0000king",
+        "heizhibandarkhal0000king",
+        "lamitadoscura0000king",
+        "darkhalf01king",
+        "darkhalfnovel0000king",
+        "darkhalfking00king",
+        "darkhalf00king_3ax",
+        "darkhalf0000king_m4k2",
+        "darkhalf0000king",
+        "darkhalfkin00king",
+        "darkhalf00king",
+        "temnaiapolovina0000king_t1y3"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "schroederlibrary-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81620W",
+      "language": [
+        "tur",
+        "ita",
+        "eng",
+        "ger",
+        "pol",
+        "rus",
+        "chi",
+        "spa",
+        "fre"
+      ],
+      "lending_edition_s": "OL42872943M",
+      "lending_identifier_s": "mrocznapoowa0000king",
+      "public_scan_b": false,
+      "title": "The Dark Half"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL7572318M",
+      "cover_i": 14651762,
+      "ebook_access": "borrowable",
+      "edition_count": 40,
+      "first_publish_year": 1982,
+      "has_fulltext": true,
+      "ia": [
+        "vluchtnaardetop0000king",
+        "runningman00step",
+        "runningman0000step",
+        "runningman0000bach",
+        "runningman0000king"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL149188W",
+      "language": [
+        "spa",
+        "pol",
+        "eng",
+        "ara",
+        "fre",
+        "ger",
+        "dut"
+      ],
+      "lending_edition_s": "OL34009201M",
+      "lending_identifier_s": "vluchtnaardetop0000king",
+      "public_scan_b": false,
+      "title": "The Running Man"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL24207761M",
+      "cover_i": 6502777,
+      "ebook_access": "borrowable",
+      "edition_count": 55,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "stephenkingfromb0000step",
+        "geheimvandebuick0000king",
+        "roadmasterroman0000king",
+        "buick8uncocheper00step",
+        "frombuick8novel00king_0",
+        "isbn_9788378393559",
+        "stephenking0000unse_p8s0",
+        "frombuick80000step",
+        "frombuick8novel0000king_d1e0",
+        "frombuick80000king",
+        "frombuick8novel0000king",
+        "frombuick80000unse",
+        "buick80000unse",
+        "frombuick8novel0000king_j3z1",
+        "frombuick80000king_r3v9",
+        "frombuick8novel00king",
+        "frombuick800king",
+        "cd_from-a-buick-8_stephen-king"
+      ],
+      "ia_collection": [
+        "americana",
+        "audio_bookspoetry",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchiveaudiobooks",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "samples_only",
+        "stmaryscountylibrary",
+        "stream_only",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81586W",
+      "language": [
+        "eng",
+        "fre",
+        "spa",
+        "pol",
+        "por",
+        "dut",
+        "tur",
+        "ger",
+        "rus"
+      ],
+      "lending_edition_s": "OL53054130M",
+      "lending_identifier_s": "stephenkingfromb0000step",
+      "public_scan_b": false,
+      "title": "From a Buick 8"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL43462101M",
+      "cover_i": 14654718,
+      "ebook_access": "borrowable",
+      "edition_count": 39,
+      "first_publish_year": 1993,
+      "has_fulltext": true,
+      "ia": [
+        "revesetcauchemar0000king",
+        "revesetcauchemar0000step",
+        "nightmaresdreams0000step_d4j1",
+        "nightmaresdreams0000step",
+        "nightmaresdreams0000unse",
+        "nightmaresdreams0000king",
+        "isbn_9782226070098",
+        "nightmaresdream00king",
+        "nightmaresdreams00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "claremont_school_of_theology",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81604W",
+      "language": [
+        "rus",
+        "pol",
+        "eng",
+        "spa",
+        "fre"
+      ],
+      "lending_edition_s": "OL32046547M",
+      "lending_identifier_s": "revesetcauchemar0000king",
+      "public_scan_b": false,
+      "title": "Nightmares & Dreamscapes"
+    },
+    {
+      "author_key": [
+        "OL444620A"
+      ],
+      "author_name": [
+        "James Clavell"
+      ],
+      "cover_edition_key": "OL13186528M",
+      "cover_i": 13268339,
+      "ebook_access": "borrowable",
+      "edition_count": 49,
+      "first_publish_year": 1950,
+      "has_fulltext": true,
+      "ia": [
+        "caidroman0000clav",
+        "jamesclavellskin00clav",
+        "kingrat0000jame",
+        "bwb_W9-CUE-210",
+        "kingratc00clav",
+        "kingratnovel00clav",
+        "kingratclav00clav",
+        "kingratc00clav",
+        "kingratc00clav",
+        "kingrat00clav",
+        "kingratclay00clav"
+      ],
+      "ia_collection": [
+        "americana",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL2918736W",
+      "language": [
+        "heb",
+        "spa",
+        "fre",
+        "eng"
+      ],
+      "lending_edition_s": "OL32083175M",
+      "lending_identifier_s": "caidroman0000clav",
+      "public_scan_b": false,
+      "title": "King Rat"
+    },
+    {
+      "author_key": [
+        "OL8112375A"
+      ],
+      "author_name": [
+        "Vex King"
+      ],
+      "cover_edition_key": "OL28285672M",
+      "cover_i": 10210924,
+      "ebook_access": "printdisabled",
+      "edition_count": 6,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "goodvibesgoodlif0000king"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20884418W",
+      "language": [
+        "dut",
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Good Vibes, Good Life"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL26644859M",
+      "cover_i": 8339525,
+      "ebook_access": "printdisabled",
+      "edition_count": 32,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9781501100079",
+        "carnetsnoirsroma0000king",
+        "finderskeepers0000king_q8m6",
+        "finderskeepersno0000king",
+        "finderskeepers0000king",
+        "finderskeepers0000king_t7s0",
+        "isbn_9781473698994",
+        "finderskeepers0000king_x6s5"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "salisburyfreelibrary-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL17333186W",
+      "language": [
+        "fre",
+        "spa",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Finders Keepers"
+    },
+    {
+      "author_key": [
+        "OL9180803A"
+      ],
+      "author_name": [
+        "Ana Huang"
+      ],
+      "cover_edition_key": "OL48185484M",
+      "cover_i": 14532892,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL35718442W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "series_key": [
+        "OL327422L"
+      ],
+      "series_name": [
+        "Kings of Sin"
+      ],
+      "series_position": [
+        "3"
+      ],
+      "title": "King of Greed"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL27306907M",
+      "cover_i": 10712767,
+      "ebook_access": "printdisabled",
+      "edition_count": 28,
+      "first_publish_year": 2019,
+      "has_fulltext": true,
+      "ia": [
+        "elinstitutounano0000king",
+        "institutenovel0000king_s5n8",
+        "institute0000king_m4p7",
+        "institutenovel0000king",
+        "institute0000king",
+        "institutenovel0000king_h5y0",
+        "institutenovel0000step",
+        "isbn_9789022587423"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20126932W",
+      "language": [
+        "spa",
+        "dut",
+        "eng",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "The Institute"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL7589587M",
+      "cover_i": 14651552,
+      "ebook_access": "borrowable",
+      "edition_count": 27,
+      "first_publish_year": 1983,
+      "has_fulltext": true,
+      "ia": [
+        "unicoindiziolalu00king",
+        "cycleofwerewolf00king_0",
+        "cycleofwerewolf00king",
+        "isbn_9783404281350"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL81583W",
+      "language": [
+        "ger",
+        "ita",
+        "spa",
+        "eng",
+        "fre"
+      ],
+      "lending_edition_s": "OL24967793M",
+      "lending_identifier_s": "unicoindiziolalu00king",
+      "public_scan_b": false,
+      "title": "Cycle of the Werewolf"
+    },
+    {
+      "author_key": [
+        "OL1394865A"
+      ],
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "cover_edition_key": "OL24345134M",
+      "cover_i": 14658316,
+      "ebook_access": "printdisabled",
+      "edition_count": 30,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "derwegderknigero0000bran",
+        "wayofkings0000sand_h0x5",
+        "wayofkingsthesto00bran",
+        "wayofkings0000sand"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15358691W",
+      "language": [
+        "eng",
+        "pol",
+        "ger",
+        "spa",
+        "por",
+        "heb"
+      ],
+      "public_scan_b": false,
+      "title": "The Way of Kings"
+    },
+    {
+      "author_key": [
+        "OL9180803A"
+      ],
+      "author_name": [
+        "Ana Huang"
+      ],
+      "cover_i": 13244526,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL29330646W",
+      "language": [
+        "spa",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "series_key": [
+        "OL327422L"
+      ],
+      "series_name": [
+        "Kings of Sin"
+      ],
+      "series_position": [
+        "2"
+      ],
+      "title": "King of Pride"
+    },
+    {
+      "author_key": [
+        "OL391079A"
+      ],
+      "author_name": [
+        "Lev Grossman"
+      ],
+      "cover_edition_key": "OL26880093M",
+      "cover_i": 8572829,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL19660532W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Magician King"
+    },
+    {
+      "author_key": [
+        "OL2631209A"
+      ],
+      "author_name": [
+        "Larry King"
+      ],
+      "cover_edition_key": "OL18127349M",
+      "cover_i": 5397900,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 1995,
+      "has_fulltext": true,
+      "ia": [
+        "howtotalktoanyon00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL14933020W",
+      "language": [
+        "eng",
+        "ind"
+      ],
+      "public_scan_b": false,
+      "subtitle": "the secrets of good communication",
+      "title": "How to talk to anyone, anytime, anywhere"
+    },
+    {
+      "author_key": [
+        "OL7276129A"
+      ],
+      "author_name": [
+        "Victoria Aveyard"
+      ],
+      "cover_edition_key": "OL26241559M",
+      "cover_i": 7909655,
+      "ebook_access": "borrowable",
+      "edition_count": 16,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "goldenerkafig0000avey"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17636077W",
+      "language": [
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL37760248M",
+      "lending_identifier_s": "goldenerkafig0000avey",
+      "public_scan_b": false,
+      "series_key": [
+        "OL334913L"
+      ],
+      "series_name": [
+        "Red Queen"
+      ],
+      "series_position": [
+        "3"
+      ],
+      "title": "King's Cage"
+    },
+    {
+      "author_key": [
+        "OL236182A"
+      ],
+      "author_name": [
+        "Lloyd Alexander"
+      ],
+      "cover_edition_key": "OL8136327M",
+      "cover_i": 677680,
+      "ebook_access": "printdisabled",
+      "edition_count": 46,
+      "first_publish_year": 1968,
+      "has_fulltext": true,
+      "ia": [
+        "highking00al",
+        "highkingthechron0000alex",
+        "highking00alex_0",
+        "highking00alex",
+        "highking0000alex_z5o3",
+        "highking0000alex_n1a2",
+        "highkingthe00lloy",
+        "highkingalex00alex",
+        "isbn_9780805011142"
+      ],
+      "ia_collection": [
+        "americana",
+        "bpljordan-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "phillipsacademy-preview",
+        "printdisabled",
+        "stmaryscountylibrary",
+        "unb-ol",
+        "universityofarizona-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL1966591W",
+      "language": [
+        "eng",
+        "und",
+        "heb"
+      ],
+      "public_scan_b": false,
+      "series_key": [
+        "OL331089L"
+      ],
+      "series_name": [
+        "The Chronicles of Prydain"
+      ],
+      "series_position": [
+        "5"
+      ],
+      "title": "The High King"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 8380883,
+      "ebook_access": "printdisabled",
+      "edition_count": 25,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "coloradokid00king_0",
+        "coloradokid0000step_v7g5",
+        "coloradokid0000step",
+        "parenizkolorado0000king",
+        "coloradokidhardc0000king",
+        "coloradokid0000king"
+      ],
+      "ia_collection": [
+        "americana",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "stmaryscountylibrary"
+      ],
+      "key": "/works/OL149171W",
+      "language": [
+        "eng",
+        "ger",
+        "por",
+        "rus",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "The Colorado Kid"
+    },
+    {
+      "author_key": [
+        "OL39329A"
+      ],
+      "author_name": [
+        "John Grisham"
+      ],
+      "cover_edition_key": "OL3702604M",
+      "cover_i": 6618007,
+      "ebook_access": "borrowable",
+      "edition_count": 53,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "krolodszkodowan0000gris",
+        "elreydelospleito0000gris_a8w0",
+        "declaim0000gris",
+        "dieschuldroman0000gris",
+        "elreydelospleito0000gris",
+        "elreydelospleito0000gris_n7w2",
+        "elreydelospleito0000gris_q5e5",
+        "korolsdelkiroman0000gris",
+        "kingoftorts0000gris_r3p8",
+        "kingoftorts0000gris_s4m3",
+        "kingoftorts0000gris_o7h6",
+        "kingoftorts0000gris_d5e9",
+        "kingoftortslarge00john",
+        "kingoftorts0000gris_a9w7",
+        "kingoftorts0000gris",
+        "kingoftortsth00gris",
+        "kingoftortsgri00gris",
+        "latransaction0000gris",
+        "kingrts00gris",
+        "kingtorts00gris",
+        "isbn_9780385339650",
+        "kingoftortslarge00gris",
+        "kingoftorts0000gris_g1a9",
+        "kingoftorts00john_4",
+        "kingoftorts0000gris_a4l9",
+        "kingoftorts00gris",
+        "kingoftorts00gris_0",
+        "kingoftortsgris00gris"
+      ],
+      "ia_collection": [
+        "americana",
+        "barryuniversity-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "goffstownlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "schroederlibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "toronto",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL77011W",
+      "language": [
+        "rus",
+        "dut",
+        "pol",
+        "spa",
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL36696462M",
+      "lending_identifier_s": "krolodszkodowan0000gris",
+      "public_scan_b": false,
+      "title": "The King of Torts"
+    },
+    {
+      "author_key": [
+        "OL2801083A"
+      ],
+      "author_name": [
+        "Joe Abercrombie"
+      ],
+      "cover_edition_key": "OL24981613M",
+      "cover_i": 6901175,
+      "ebook_access": "borrowable",
+      "edition_count": 19,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "dernierequerelle0003aber",
+        "ostatecznyargume0000aber",
+        "posledniidovodko0000aber",
+        "lastargumentofki0000aber",
+        "lastargumentofki00aber"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL8400952W",
+      "language": [
+        "spa",
+        "swe",
+        "rus",
+        "pol",
+        "eng",
+        "fre"
+      ],
+      "lending_edition_s": "OL43048738M",
+      "lending_identifier_s": "dernierequerelle0003aber",
+      "public_scan_b": false,
+      "title": "Last Argument of Kings"
+    },
+    {
+      "author_key": [
+        "OL9180803A"
+      ],
+      "author_name": [
+        "Ana Huang"
+      ],
+      "cover_edition_key": "OL50631622M",
+      "cover_i": 14751192,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL37572814W",
+      "language": [
+        "dut",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "series_key": [
+        "OL327422L"
+      ],
+      "series_name": [
+        "Kings of Sin"
+      ],
+      "series_position": [
+        "4"
+      ],
+      "title": "King of Sloth"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL25935295M",
+      "cover_i": 12376085,
+      "ebook_access": "borrowable",
+      "edition_count": 23,
+      "first_publish_year": 2000,
+      "has_fulltext": true,
+      "ia": [
+        "koniecwarty0000king",
+        "endofwatch0000king_a2k5",
+        "jingjiejiechu0000step",
+        "endofwatch0000king_m0d4",
+        "endofwatchnovel0000king_a4i5",
+        "endofwatch0000king",
+        "endofwatchnovel0000king"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17357373W",
+      "language": [
+        "chi",
+        "eng",
+        "pol"
+      ],
+      "lending_edition_s": "OL28273226M",
+      "lending_identifier_s": "koniecwarty0000king",
+      "public_scan_b": false,
+      "title": "End of Watch"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL91075M",
+      "cover_i": 8401475,
+      "ebook_access": "borrowable",
+      "edition_count": 19,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "latempetedusiecl0000unse",
+        "isbn_9781442006997",
+        "latempetedusiecl0000king",
+        "stormofcentury0000king",
+        "tormentadelsiglo0000step",
+        "latempetedusiecl0000step",
+        "stormofcentury00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "printdisabled",
+        "stmaryscountylibrary"
+      ],
+      "key": "/works/OL81592W",
+      "language": [
+        "eng",
+        "fre",
+        "rus",
+        "dut",
+        "spa",
+        "ger"
+      ],
+      "lending_edition_s": "OL43671419M",
+      "lending_identifier_s": "latempetedusiecl0000unse",
+      "public_scan_b": false,
+      "title": "Storm of the Century"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL28266020M",
+      "cover_i": 14652892,
+      "ebook_access": "borrowable",
+      "edition_count": 27,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "chongshengreviva0000king",
+        "revivalnovel0000king",
+        "revivalroman0000king",
+        "revival0000king_u5q5",
+        "isbn_9781410473837",
+        "revival0000king_k3t1",
+        "revival0000unse_i7w7",
+        "revival0000king",
+        "revival0000king_s7c1"
+      ],
+      "ia_collection": [
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL17200413W",
+      "language": [
+        "spa",
+        "fre",
+        "rus",
+        "ger",
+        "eng",
+        "chi"
+      ],
+      "lending_edition_s": "OL32042532M",
+      "lending_identifier_s": "chongshengreviva0000king",
+      "public_scan_b": false,
+      "title": "Revival"
+    },
+    {
+      "author_key": [
+        "OL807186A"
+      ],
+      "author_name": [
+        "Kerry Allyne"
+      ],
+      "cover_edition_key": "OL26336874M",
+      "cover_i": 8651530,
+      "ebook_access": "borrowable",
+      "edition_count": 3,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "woolking00mill"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL4220911W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL26336874M",
+      "lending_identifier_s": "woolking00mill",
+      "public_scan_b": false,
+      "title": "The wool King"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL7570400M",
+      "cover_i": 8565707,
+      "ebook_access": "printdisabled",
+      "edition_count": 9,
+      "first_publish_year": 1977,
+      "has_fulltext": true,
+      "ia": [
+        "rabia00step"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL149154W",
+      "language": [
+        "ger",
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Rage"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL32280764M",
+      "cover_i": 14654070,
+      "ebook_access": "printdisabled",
+      "edition_count": 25,
+      "first_publish_year": 2021,
+      "has_fulltext": true,
+      "ia": [
+        "billysummers0000step",
+        "billysummers0000king",
+        "billysummersnove0000step",
+        "billysummersnove0000king"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24229351W",
+      "language": [
+        "eng",
+        "spa",
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "Billy Summers"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL9379877M",
+      "cover_i": 14652676,
+      "ebook_access": "borrowable",
+      "edition_count": 24,
+      "first_publish_year": 2007,
+      "has_fulltext": true,
+      "ia": [
+        "blaze0000bach_m6f2",
+        "blazenovel0000bach",
+        "blazenovel00bach",
+        "blaze0000bach_k4c4",
+        "blazeroman0000king_o5d2",
+        "blazeroman0000king",
+        "blaze00bach_0",
+        "blaze0000bach"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL2794739W",
+      "language": [
+        "fre",
+        "eng"
+      ],
+      "lending_edition_s": "OL35723618M",
+      "lending_identifier_s": "blaze0000bach_m6f2",
+      "public_scan_b": false,
+      "title": "Blaze"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL15049266M",
+      "cover_i": 14651941,
+      "ebook_access": "borrowable",
+      "edition_count": 34,
+      "first_publish_year": 1981,
+      "has_fulltext": true,
+      "ia": [
+        "roadworknoveloff00bach",
+        "chantierroman0000bach",
+        "chantier0000king",
+        "carreteramaldita0000king",
+        "carreteramaldita0000king_y5e6",
+        "roadwork00step",
+        "isbn_9024515440",
+        "roadworknovel0000bach",
+        "roadw00step"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol"
+      ],
+      "key": "/works/OL149102W",
+      "language": [
+        "tur",
+        "eng",
+        "dut",
+        "fre",
+        "ita",
+        "rus",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL15049266M",
+      "lending_identifier_s": "roadworknoveloff00bach",
+      "public_scan_b": false,
+      "title": "Roadwork"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 9337285,
+      "ebook_access": "borrowable",
+      "edition_count": 13,
+      "first_publish_year": 1996,
+      "has_fulltext": true,
+      "ia": [
+        "twodeadgirls00king",
+        "isbn_0071162002997",
+        "deuxpetitesfille0000king",
+        "greenmile00king",
+        "greenmilepart100king",
+        "greenmilepart1tw0000king",
+        "twodeadgirlsking00king"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL149165W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "lending_edition_s": "OL571548M",
+      "lending_identifier_s": "twodeadgirls00king",
+      "public_scan_b": false,
+      "title": "The Two Dead Girls"
+    },
+    {
+      "author_key": [
+        "OL577983A"
+      ],
+      "author_name": [
+        "Sara Craven"
+      ],
+      "cover_i": 7319267,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 1989,
+      "has_fulltext": true,
+      "ia": [
+        "kingofswords00crav"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL8087183W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL10738631M",
+      "lending_identifier_s": "kingofswords00crav",
+      "public_scan_b": false,
+      "title": "King Of Swords"
+    },
+    {
+      "author_key": [
+        "OL234664A"
+      ],
+      "author_name": [
+        "George R. R. Martin"
+      ],
+      "cover_edition_key": "OL376045M",
+      "cover_i": 8231751,
+      "ebook_access": "borrowable",
+      "edition_count": 76,
+      "first_publish_year": 1998,
+      "has_fulltext": true,
+      "ia": [
+        "lareginadeidragh0000mart",
+        "xocdereis0000mart",
+        "bwb_KU-321-157",
+        "starciekrlw0000unse",
+        "bitvakorolei0000mart",
+        "friadosreisascrn0000geor",
+        "odespertardamagi0000geor",
+        "letronedeferlint0002mart_t8e1",
+        "clashofkings0000unse2book",
+        "isbn_9785170021314",
+        "choquedereyes0000mart",
+        "choquedereyes0000mart_h4q0",
+        "letronedefer0000mart",
+        "clashofkingsbook00geor",
+        "clashofkings0000mart_u4u9",
+        "clashofkings0000mart_p4p3",
+        "clashofkings0002mart",
+        "clashofkings0000mart",
+        "clashofkings0000mart_r5j0",
+        "clashofkingsbook00mart",
+        "clashofkingsbook00mart_0",
+        "clashofkings0000mart_x0t9",
+        "clashofkings0000mart_n0t7",
+        "clashofkingsason00geor",
+        "clashofkingsason00geor_0",
+        "clashofkings00mart"
+      ],
+      "ia_collection": [
+        "aceportal",
+        "americana",
+        "americanuniversity-ol",
+        "aphmigel",
+        "barryuniversity-ol",
+        "belmont-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "toronto",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL257939W",
+      "language": [
+        "pol",
+        "cat",
+        "srp",
+        "chi",
+        "eng",
+        "spa",
+        "ita",
+        "fre",
+        "rus",
+        "por"
+      ],
+      "lending_edition_s": "OL26706186M",
+      "lending_identifier_s": "lareginadeidragh0000mart",
+      "public_scan_b": false,
+      "series_key": [
+        "OL327002L"
+      ],
+      "series_name": [
+        "A Song of Ice and Fire"
+      ],
+      "series_position": [
+        "2"
+      ],
+      "title": "A Clash of Kings"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL39559930M",
+      "cover_i": 14655682,
+      "ebook_access": "printdisabled",
+      "edition_count": 14,
+      "first_publish_year": 2022,
+      "has_fulltext": true,
+      "ia": [
+        "fairytale0000step_z3g3",
+        "fairytale0000step"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL27589863W",
+      "language": [
+        "ger",
+        "spa",
+        "ita",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Fairy Tale"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 9330636,
+      "ebook_access": "printdisabled",
+      "edition_count": 20,
+      "first_publish_year": 1925,
+      "has_fulltext": true,
+      "ia": [
+        "mistpreviouslypu00step",
+        "laniebla0000king",
+        "mist0000step"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL149144W",
+      "language": [
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "The Mist"
+    },
+    {
+      "author_key": [
+        "OL10349113A"
+      ],
+      "author_name": [
+        "Sadie Kincaid"
+      ],
+      "cover_i": 14426383,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27720239W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Fierce King"
+    },
+    {
+      "author_key": [
+        "OL397243A"
+      ],
+      "author_name": [
+        "Susan Cooper"
+      ],
+      "cover_edition_key": "OL6782925M",
+      "cover_i": 1470226,
+      "ebook_access": "borrowable",
+      "edition_count": 27,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9780756904241",
+        "kingofshadows0000coop_u3s6",
+        "kingofshadows0000coop",
+        "kingofshadows0000coop_w9w4",
+        "kingofshadows00susa",
+        "kingofshadowsala00susa",
+        "kingofshadows00coop"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL894226W",
+      "language": [
+        "dan",
+        "ger",
+        "eng"
+      ],
+      "lending_edition_s": "OL26027306M",
+      "lending_identifier_s": "isbn_9780756904241",
+      "public_scan_b": false,
+      "title": "King of Shadows"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL26751412M",
+      "cover_i": 14651906,
+      "ebook_access": "borrowable",
+      "edition_count": 55,
+      "first_publish_year": 1996,
+      "has_fulltext": true,
+      "ia": [
+        "regulators0000bach_u7r7",
+        "regulatorroman0000bach",
+        "lesregulateursro0000bach",
+        "regulators0000bach_a8k3",
+        "regulators0000bach",
+        "regulators0000rich_h6b3",
+        "regulators0000unse_m5u9",
+        "lesregulateursro0000bach_m0k2",
+        "regulator00bach",
+        "regulators0000bach_i1a3",
+        "regulators00bach_vd3",
+        "regulato00bach",
+        "regulators00bach",
+        "regulatorsthe00bach",
+        "regulatorsnovel0000bach",
+        "isbn_9788373595163"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "uni-ol",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL2794726W",
+      "language": [
+        "tur",
+        "eng",
+        "fre",
+        "ita",
+        "rus",
+        "pol",
+        "ger",
+        "spa"
+      ],
+      "lending_edition_s": "OL993324M",
+      "lending_identifier_s": "regulators0000bach_u7r7",
+      "public_scan_b": false,
+      "title": "The Regulators"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL23272355M",
+      "cover_i": 14656148,
+      "ebook_access": "borrowable",
+      "edition_count": 39,
+      "first_publish_year": 1990,
+      "has_fulltext": true,
+      "ia": [
+        "darktower0000king",
+        "darktower00king",
+        "darktower0000unse_b7r3",
+        "darktowerviidark00king",
+        "darktower0000king_m5x3"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "salisburyfreelibrary-ol",
+        "stmaryscountylibrary",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL81600W",
+      "language": [
+        "ger",
+        "por",
+        "chi",
+        "spa",
+        "eng",
+        "ita"
+      ],
+      "lending_edition_s": "OL10676804M",
+      "lending_identifier_s": "darktower0000king",
+      "public_scan_b": false,
+      "title": "The dark tower"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL33995480M",
+      "cover_i": 14653576,
+      "ebook_access": "borrowable",
+      "edition_count": 29,
+      "first_publish_year": 1925,
+      "has_fulltext": true,
+      "ia": [
+        "dewinddoorhetsle0000king",
+        "stephenkingwindt0000unse",
+        "windthroughkeyho0000king_a1p5",
+        "windthroughkeyho0000king_w1a5",
+        "windthroughkeyho0000step",
+        "windthroughkeyho0000king",
+        "windthroughkeyho0000king_e6y4",
+        "windthroughkeyho00king"
+      ],
+      "ia_collection": [
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "tulsacc-ol",
+        "unb-ol"
+      ],
+      "key": "/works/OL16451416W",
+      "language": [
+        "eng",
+        "por",
+        "dut",
+        "chi"
+      ],
+      "lending_edition_s": "OL32797529M",
+      "lending_identifier_s": "dewinddoorhetsle0000king",
+      "public_scan_b": false,
+      "title": "The Wind Through the Keyhole"
+    },
+    {
+      "author_key": [
+        "OL6983136A"
+      ],
+      "author_name": [
+        "Mark Lawrence"
+      ],
+      "cover_edition_key": "OL30696015M",
+      "cover_i": 10491224,
+      "ebook_access": "printdisabled",
+      "edition_count": 10,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "kingofthorns0000lawr"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL22708025W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "King of Thorns"
+    },
+    {
+      "author_key": [
+        "OL25793A"
+      ],
+      "author_name": [
+        "Bernard Cornwell"
+      ],
+      "cover_edition_key": "OL965122M",
+      "cover_i": 173825,
+      "ebook_access": "printdisabled",
+      "edition_count": 15,
+      "first_publish_year": 1995,
+      "has_fulltext": true,
+      "ia": [
+        "winterkingnovelo0000corn_c2k5",
+        "winterking00corn",
+        "winterkingnovelo00corn",
+        "winterkingtheart00bern",
+        "winterkingnovelo0000corn_c3w8"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "marymount-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL23272W",
+      "language": [
+        "ita",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "a Novel of Arthur",
+      "title": "The Winter King"
+    },
+    {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_edition_key": "OL26967764M",
+      "cover_i": 12376066,
+      "ebook_access": "printdisabled",
+      "edition_count": 16,
+      "first_publish_year": 2018,
+      "has_fulltext": true,
+      "ia": [
+        "elevation0000king_e2e5",
+        "elevation0000king_g4q0",
+        "elevation0000king_i1c2",
+        "elevation0000king_s2d5",
+        "elevation0000king"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL18021898W",
+      "language": [
+        "pol",
+        "eng",
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Elevation"
+    },
+    {
+      "author_key": [
+        "OL7501359A"
+      ],
+      "author_name": [
+        "Tricia Levenseller"
+      ],
+      "cover_edition_key": "OL27993361M",
+      "cover_i": 9379961,
+      "ebook_access": "printdisabled",
+      "edition_count": 7,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "daughterofpirate0000leve"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19737591W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Daughter of the pirate king"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "cover_edition_key": "OL51708706M",
+      "cover_i": 14627062,
+      "ebook_access": "borrowable",
+      "edition_count": 273,
+      "first_publish_year": 1950,
+      "has_fulltext": true,
+      "ia": [
+        "leretourduroi0000jrrt",
+        "elsenordelosanil0003tolk",
+        "osenhordosanisor0000unse",
+        "powrotkrola0000tolk",
+        "isbn_9788595084773",
+        "elretornodelrey0000tolk",
+        "lccn_0345253450195",
+        "lordofrings3volu0000unse_k1e5",
+        "elseordelosanill0000jrrt_n4m9",
+        "returnofking0000tolk_t1r7",
+        "mojiesanbuquwang0000tolk",
+        "returnofkingbe00tolk",
+        "returnofkingbeintolk00tolk",
+        "returnofkingbein03tolk",
+        "returnofkingbein1965tolk",
+        "returnofkingbeintol00tolk",
+        "returnofkingbein00tolk_0",
+        "returnofking00tolk",
+        "returnoftheking0000unse",
+        "returnofking03tolk",
+        "returnofkingbein0000tolk_r5w8",
+        "returnofkingbein00tolk_1",
+        "returnofkingbein0000tolk",
+        "returnofking0003unse",
+        "lordofrings56tolk",
+        "returnofkingbein1994tolk",
+        "lordofringspartt00jrrt",
+        "returnofking00tolk_0",
+        "lordofring00tolk",
+        "leretourduroi00jrrt",
+        "returnofkingthel00jrrt",
+        "returnofkingbein0003tolk",
+        "yuzuklerinefendi0000tolk",
+        "returnofkingthel00jrrt_0",
+        "leretourduroi0000tolk",
+        "wangzhewudi0000tolk",
+        "returnofking00jrrt_2",
+        "elretornodelrey0000jrrt",
+        "leseigneurdesann0000tolk_e6i0",
+        "returnofkingbein0000tolk_j1m4",
+        "returnofkingbeintolkien00tolk",
+        "returnofkingbeintolkie00tolk",
+        "lordofrings0000tolk_d6c9",
+        "lccn_345235118125",
+        "mojiexianshenfel0003tolk",
+        "lordofrings0003tolk",
+        "lordofrings5hard00jrrt",
+        "returnofkingbein1993tolk",
+        "returnofking0000tolk_r4w6",
+        "panprstenov0000tolk",
+        "lordofrings0000tolk_n6x8",
+        "returnofkingbein0000tolk_e4y6",
+        "returnofkingbein0000tolk_w4t4",
+        "returnofking0000tolk",
+        "returnofkingbein0000tolk_l8w2",
+        "lordofringsretur0000jrrt",
+        "returnofkingbein0003tolk_m6s4",
+        "leseigneurdesann0000tolk_k6z7",
+        "returnofkingbei00tolk",
+        "returnofking00tolk_1",
+        "returnofking00jrrt",
+        "lccn_345247868100",
+        "lordofrings0000tolk",
+        "isbn_9788595084773_q6a3",
+        "returnofkingbein0000tolk_p3y3",
+        "lordofrings0000tolk_i6c9",
+        "returnofking0000jrrt",
+        "returnofking0000jrrt_f3k1",
+        "returnofking0000jrrt_k3d3",
+        "returnofking0000jrrt_n9b7",
+        "returnofking0000jrrt_y6p0",
+        "leretourduroiles00jrrt",
+        "returnofkingtolk00tolk",
+        "isbn_9782266132398_3",
+        "lordofrings0000tolk_r3e9",
+        "isbn_034533938",
+        "returnofking0000jrrt_r6w9",
+        "isbn_9780329278052",
+        "returnofking0000tolk_y5o9",
+        "returnofking0000jrrt_i6m3",
+        "jrrtolkienboxbox0000jrrt_z4a7",
+        "heerservandierin0000jrrt"
+      ],
+      "ia_collection": [
+        "americana",
+        "bannedbooks",
+        "bpljordan-ol",
+        "cnusd-ol",
+        "danielsiders",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebookdrive",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "marygrovecollege",
+        "miltonpubliclibrary-ol",
+        "nationaluniversity",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "stmaryscountylibrary",
+        "tulsacc-ol",
+        "unb-ol"
+      ],
+      "key": "/works/OL27455W",
+      "language": [
+        "rus",
+        "ita",
+        "cze",
+        "afr",
+        "bul",
+        "fre",
+        "eng",
+        "hrv",
+        "ger",
+        "pol",
+        "baq",
+        "chi",
+        "tur",
+        "kor",
+        "spa",
+        "cat",
+        "gre",
+        "yid",
+        "vie",
+        "dut",
+        "por",
+        "slo",
+        "srp",
+        "ind"
+      ],
+      "lending_edition_s": "OL8889880M",
+      "lending_identifier_s": "leretourduroi0000jrrt",
+      "public_scan_b": false,
+      "series_key": [
+        "OL330052L"
+      ],
+      "series_name": [
+        "The Lord of the Rings"
+      ],
+      "series_position": [
+        "3"
+      ],
+      "title": "The Return of the King"
+    }
+  ]
+}
